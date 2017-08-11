@@ -1,0 +1,3786 @@
+- intervals: [2, 2, 2, 1, 2, 1, 2]
+  name: Acoustic
+  notes: [0, 2, 4, 6, 7, 9, 10]
+- intervals: [1, 1, 1, 2, 2, 2, 1, 2]
+  name: Adonai Malakh
+  notes: [0, 1, 2, 3, 5, 7, 9, 10]
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Aeolian
+  notes: [0, 2, 3, 5, 7, 8, 10]
+- intervals: [3, 1, 2, 2, 1, 2, 1]
+  name: Aeolian b1
+  notes: [0, 3, 4, 6, 8, 9, 11]
+- intervals: [3, 1, 2, 1, 2, 2, 1]
+  name: Aeolian Harmonic
+  notes: [0, 3, 4, 6, 7, 9, 11]
+- intervals: [2, 2, 1, 2, 1, 2, 2]
+  name: Aeolian Major
+  notes: [0, 2, 4, 5, 7, 8, 10]
+- intervals: [2, 1, 4, 1, 4]
+  name: Aeolian Pentatonic
+  notes: [0, 2, 3, 7, 8]
+- intervals: [1, 2, 1, 1, 1, 2, 2, 2]
+  name: Ahava Rabba
+  notes: [0, 1, 3, 4, 5, 6, 8, 10]
+  origin: Jewish
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Ajam Shiram
+  notes: [0, 2, 4, 5, 7, 9, 11]
+- intervals: [2, 1, 4, 1, 4]
+  name: Ake-Bono
+  notes: [0, 2, 3, 7, 8]
+  origin: Japan
+- intervals: [2, 1, 3, 1, 1, 3, 1, 2, 1, 2]
+  name: Algerian
+  notes: [0, 2, 3, 6, 7, 8, 11, 12, 14, 15]
+  origin: Tunisia
+- intervals: [2, 1, 2, 1, 1, 1, 3, 1]
+  name: Algerian Octatonic
+  notes: [0, 2, 3, 5, 6, 7, 8, 11]
+  origin: Tunisia
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Alhijaz
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Arabia
+- intervals: [2, 1, 2, 1, 2, 2, 2]
+  name: Altered Diminished
+  notes: [0, 2, 3, 5, 6, 8, 10]
+- intervals: [2, 2, 2, 2, 1, 2, 1]
+  name: Altered Lydian
+  notes: [0, 2, 4, 6, 8, 9, 11]
+- intervals: [1, 2, 1, 2, 2, 2, 2]
+  name: Altered (or Altered Dominant)
+  notes: [0, 1, 3, 4, 6, 8, 10]
+- intervals: [1, 4, 2, 2, 3]
+  name: Altered Pentatonic
+  notes: [0, 1, 5, 7, 9]
+- intervals: [2, 2, 1, 3, 4]
+  name: Altered Major Pentatonic
+  notes: [0, 2, 4, 5, 8]
+- intervals: [1, 3, 2, 1, 4]
+  name: Ambassel
+  notes: [0, 1, 4, 6, 7]
+  origin: Ethiopia
+- intervals: [2, 2, 2, 1, 2, 3]
+  name: Ancient Chinese
+  notes: [0, 2, 4, 6, 7, 9]
+  origin: China
+- intervals: [2, 2, 2, 2, 2, 2]
+  name: Anhemitonic Hexatonic
+  notes: [0, 2, 4, 6, 8, 10]
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Arabic
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: Arabia
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Ararai
+  notes: [0, 2, 4, 5, 7, 9, 11]
+  origin: Ethiopia
+- intervals: [2, 2, 1, 2, 2, 3]
+  name: Arezzo Major Diatonic Hexachord
+  notes: [0, 2, 4, 5, 7, 9]
+- intervals: [2, 1, 2, 2, 2, 2, 1]
+  name: Ascending Minor
+  notes: [0, 2, 3, 5, 7, 9, 11]
+- intervals: [3, 1, 3, 1, 3, 1]
+  name: Augmented
+  notes: [0, 3, 4, 7, 8, 11]
+- intervals: [3, 1, 3, 1, 4]
+  name: Augmented Pentatonic
+  notes: [0, 3, 4, 7, 8]
+- intervals: [4, 2, 2, 3, 1]
+  name: Augmented Pentatonic 2
+  notes: [0, 4, 6, 8, 11]
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Avaha or Ahava Rabba
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Jewish
+- intervals: [2, 3, 2, 2, 3]
+  name: Bac
+  notes: [0, 2, 5, 7, 9]
+  origin: Vietnam
+- intervals: [2, 1, 1, 3, 2, 1, 2]
+  name: Banshikicho
+  notes: [0, 2, 3, 4, 7, 9, 10]
+  origin: Japan
+- intervals: [2, 2, 2, 1, 2, 1, 2]
+  name: Bartok
+  notes: [0, 2, 4, 6, 7, 9, 10]
+- intervals: [3, 2, 2, 3, 2]
+  name: Bati
+  notes: [0, 3, 5, 7, 10]
+  origin: Ethiopia
+- intervals: [1, 1, 2, 1, 2, 2, 1, 1, 1]
+  name: Bebop Chromatic
+  notes: [0, 1, 2, 4, 5, 7, 9, 10, 11]
+- intervals: [2, 1, 1, 1, 2, 2, 1, 2]
+  name: Bebop Dorian
+  notes: [0, 2, 3, 4, 5, 7, 9, 10]
+- intervals: [1, 2, 2, 1, 1, 1, 3, 1]
+  name: Bebop Half-diminished
+  notes: [0, 1, 3, 5, 6, 7, 8, 11]
+- intervals: [2, 1, 2, 2, 1, 2, 1, 1]
+  name: Bebop Harmonic Minor
+  notes: [0, 2, 3, 5, 7, 8, 10, 11]
+- intervals: [1, 2, 2, 1, 1, 1, 2, 2]
+  name: Bebop Locrian
+  notes: [0, 1, 3, 5, 6, 7, 8, 10]
+- intervals: [2, 2, 1, 2, 1, 1, 2, 1]
+  name: Bebop Major
+  notes: [0, 2, 4, 5, 7, 8, 9, 11]
+- intervals: [2, 2, 1, 2, 1, 1, 3]
+  name: Bebop Major Heptatonic
+  notes: [0, 2, 4, 5, 7, 8, 9]
+- intervals: [2, 2, 3, 1, 1, 3]
+  name: Bebop Major Hexatonic
+  notes: [0, 2, 4, 7, 8, 9]
+- intervals: [2, 1, 2, 2, 1, 1, 2, 1]
+  name: Bebop Melodic Minor
+  notes: [0, 2, 3, 5, 7, 8, 9, 11]
+- intervals: [2, 1, 1, 3, 2, 1, 2]
+  name: Bebop Minor
+  notes: [0, 2, 3, 4, 7, 9, 10]
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Bebop Mixolydian
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+- intervals: [2, 1, 2, 2, 1, 2, 1, 1]
+  name: Bebop Natural Minor
+  notes: [0, 2, 3, 5, 7, 8, 10, 11]
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Bebop (or Bebop Dominant)
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+- intervals: [1, 2, 4, 1, 4]
+  name: Belinese
+  notes: [0, 1, 3, 7, 8]
+  origin: Bali
+- intervals: [1, 2, 1, 3, 2, 3]
+  name: Blues Dorian Hexatonic
+  notes: [0, 1, 3, 4, 7, 9]
+- intervals: [2, 1, 1, 1, 2, 2, 1, 1, 1]
+  name: Blues Enneatonic
+  notes: [0, 2, 3, 4, 5, 7, 9, 10, 11]
+- intervals: [2, 1, 1, 1, 1, 1, 2, 1, 2]
+  name: Blues Enneatonic 2
+  notes: [0, 2, 3, 4, 5, 6, 7, 9, 10]
+- intervals: [2, 1, 2, 1, 3, 1, 2]
+  name: Blues Heptatonic
+  notes: [0, 2, 3, 5, 6, 9, 10]
+- intervals: [3, 2, 1, 1, 2, 1, 2]
+  name: Blues Heptatonic 2
+  notes: [0, 3, 5, 6, 7, 9, 10]
+- intervals: [3, 2, 1, 1, 3, 1, 1]
+  name: Blues Leading Tone
+  notes: [0, 3, 5, 6, 7, 10, 11]
+- intervals: [2, 3, 2, 2, 3]
+  name: Blues Major
+  notes: [0, 2, 5, 7, 9]
+- intervals: [3, 2, 3, 2, 2]
+  name: Blues Minor
+  notes: [0, 3, 5, 8, 10]
+- intervals: [3, 2, 1, 1, 4, 1]
+  name: Blues Minor Maj7
+  notes: [0, 3, 5, 6, 7, 11]
+- intervals: [3, 2, 2, 3, 2]
+  name: Blues Minor Pentatonic
+  notes: [0, 3, 5, 7, 10]
+- intervals: [3, 1, 1, 1, 1, 3, 2]
+  name: Blues Mixed
+  notes: [0, 3, 4, 5, 6, 7, 10]
+- intervals: [2, 1, 2, 1, 1, 3, 2]
+  name: Blues Modified
+  notes: [0, 2, 3, 5, 6, 7, 10]
+- intervals: [2, 1, 2, 1, 1, 2, 1, 2]
+  name: Blues Octatonic
+  notes: [0, 2, 3, 5, 6, 7, 9, 10]
+- intervals: [3, 2, 1, 1, 3, 2]
+  name: Blues (or Blues Hexatonic)
+  notes: [0, 3, 5, 6, 7, 10]
+- intervals: [1, 2, 2, 1, 1, 3, 2]
+  name: Blues Phrygian
+  notes: [0, 1, 3, 5, 6, 7, 10]
+- intervals: [1, 3, 1, 1, 1, 2, 2, 1]
+  name: Buzurg
+  notes: [0, 1, 4, 5, 6, 7, 9, 11]
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Byzantine
+  notes: [0, 1, 4, 5, 7, 8, 11]
+- intervals: [3, 1, 1, 3, 4]
+  name: Center-Cluster PentaMirror
+  notes: [0, 3, 4, 5, 8]
+- intervals: [2, 1, 2, 2, 5]
+  name: Chad Gadyo
+  notes: [0, 2, 3, 5, 7]
+  origin: Jewish
+- intervals: [2, 3, 3, 2, 2]
+  name: Chaio
+  notes: [0, 2, 5, 8, 10]
+- intervals: [3, 3, 2, 2, 2]
+  name: Chin
+  notes: [0, 3, 6, 8, 10]
+- intervals: [4, 2, 1, 4, 1]
+  name: Chinese
+  notes: [0, 4, 6, 7, 11]
+  origin: China
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Chinese Eight-tone
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+  origin: China
+- intervals: [4, 2, 1, 4, 1]
+  name: Ching
+  notes: [0, 4, 6, 7, 11]
+  origin: China
+- intervals: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  name: Chromatic
+  notes: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+- intervals: [1, 1, 1, 2, 2, 1, 1, 1, 2]
+  name: Chromatic Diatonic Dorian
+  notes: [0, 1, 2, 3, 5, 7, 8, 9, 10]
+- intervals: [1, 1, 3, 2, 1, 1, 3]
+  name: Chromatic Dorian
+  notes: [0, 1, 2, 5, 7, 8, 9]
+- intervals: [3, 1, 1, 2, 3, 1, 1]
+  name: Chromatic Dorian Inverse
+  notes: [0, 3, 4, 5, 7, 10, 11]
+- intervals: [2, 1, 1, 3, 1, 1, 3]
+  name: Chromatic Hypodorian
+  notes: [0, 2, 3, 4, 7, 8, 9]
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Chromatic Hypolydian
+  notes: [0, 1, 4, 6, 7, 8, 11]
+- intervals: [1, 3, 1, 1, 2, 3, 1]
+  name: Chromatic Hypolydian Inverse
+  notes: [0, 1, 4, 5, 6, 8, 11]
+- intervals: [1, 1, 3, 1, 1, 2, 3]
+  name: Chromatic Hypophrygian Inverse
+  notes: [0, 1, 2, 5, 6, 7, 9]
+- intervals: [1, 3, 1, 1, 3, 2, 1]
+  name: Chromatic Lydian
+  notes: [0, 1, 4, 5, 6, 9, 11]
+- intervals: [1, 2, 3, 1, 1, 3, 1]
+  name: Chromatic Lydian Inverse
+  notes: [0, 1, 3, 6, 7, 8, 11]
+- intervals: [1, 1, 3, 1, 1, 3, 2]
+  name: Chromatic Mixolydian
+  notes: [0, 1, 2, 5, 6, 7, 10]
+- intervals: [1, 1, 2, 2, 1, 3, 2]
+  name: Chromatic Mixolydian 2
+  notes: [0, 1, 2, 4, 6, 7, 10]
+- intervals: [2, 3, 1, 1, 3, 1, 1]
+  name: Chromatic Mixolydian Inverse
+  notes: [0, 2, 5, 6, 7, 10, 11]
+- intervals: [1, 1, 2, 1, 2, 1, 1, 2, 1]
+  name: Chromatic Permutated Diatonic Dorian
+  notes: [0, 1, 2, 4, 5, 7, 8, 9, 11]
+- intervals: [3, 1, 1, 3, 2, 1, 1]
+  name: Chromatic Phrygian
+  notes: [0, 3, 4, 5, 8, 10, 11]
+- intervals: [1, 1, 2, 3, 1, 1, 3]
+  name: Chromatic Phrygian Inverse
+  notes: [0, 1, 2, 4, 7, 8, 9]
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Cushak
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: Armenia
+- intervals: [2, 1, 3, 1, 1, 2, 2]
+  name: Damian Emmanuel
+  notes: [0, 2, 3, 6, 7, 8, 10]
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Dasrgah-e Mahur
+  notes: [0, 2, 4, 5, 7, 9, 11]
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Dastgah-e Rast Panjgah
+  notes: [0, 2, 4, 5, 7, 9, 11]
+- intervals: [2, 1, 2, 1, 2, 1, 2, 1]
+  name: Diminished
+  notes: [0, 2, 3, 5, 6, 8, 9, 11]
+- intervals: [1, 2, 1, 2, 1, 2, 1, 2]
+  name: Diminished Half-tone
+  notes: [0, 1, 3, 4, 6, 7, 9, 10]
+- intervals: [3, 3, 2, 3, 1]
+  name: Diminished Pentatonic
+  notes: [0, 3, 6, 8, 11]
+- intervals: [2, 2, 3, 3, 2]
+  name: Dominant Pentatonic
+  notes: [0, 2, 4, 7, 10]
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Dorian
+  notes: [0, 2, 3, 5, 7, 9, 10]
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: 'Dorian #4'
+  notes: [0, 2, 3, 6, 7, 9, 10]
+- intervals: [2, 1, 2, 2, 1, 1, 1, 2]
+  name: Dorian Aeolian
+  notes: [0, 2, 3, 5, 7, 8, 9, 10]
+- intervals: [1, 2, 2, 2, 2, 1, 2]
+  name: Dorian b2
+  notes: [0, 1, 3, 5, 7, 9, 10]
+- intervals: [1, 2, 1, 3, 2, 1, 2]
+  name: Dorian b2 b4
+  notes: [0, 1, 3, 4, 7, 9, 10]
+- intervals: [1, 2, 1, 2, 3, 2, 1]
+  name: Dorian b2 Maj7
+  notes: [0, 1, 3, 4, 6, 9, 11]
+- intervals: [2, 1, 2, 1, 3, 1, 2]
+  name: Dorian b5
+  notes: [0, 2, 3, 5, 6, 9, 10]
+- intervals: [1, 2, 2, 1, 3, 1, 2]
+  name: Dorian b9
+  notes: [0, 1, 3, 5, 6, 9, 10]
+- intervals: [1, 2, 3, 1, 2, 1, 2]
+  name: 'Dorian b9 #11'
+  notes: [0, 1, 3, 6, 7, 9, 10]
+- intervals: [2, 1, 4, 2, 3]
+  name: Dorian Pentatonic
+  notes: [0, 2, 3, 7, 9]
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Dorico Flamenco
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Spain
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Double Harmonic
+  notes: [0, 1, 4, 5, 7, 8, 11]
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: Double Harmonic Minor
+  notes: [0, 2, 3, 6, 7, 8, 11]
+- intervals: [1, 2, 2, 1, 3, 3]
+  name: Double Phrygian
+  notes: [0, 1, 3, 5, 6, 9]
+- intervals: [2, 3, 2, 3, 2]
+  name: Egyptian
+  notes: [0, 2, 5, 7, 10]
+  origin: Egypt
+- intervals_ascending: [1, 3, 2, 2, 2, 1, 1]
+  intervals_descending: [1, 3, 1, 3, 2, 1, 1]
+  name: Enigmatic
+  notes_ascending: [0, 1, 4, 6, 8, 10, 11]
+  notes_descending: [0, 1, 4, 5, 8, 10, 11]
+- intervals: [1, 2, 3, 2, 2, 1, 1]
+  name: Enigmatic Minor
+  notes: [0, 1, 3, 6, 8, 10, 11]
+- intervals: [1, 3, 1, 1, 2, 2, 1, 1]
+  name: Enigmatic Mixed
+  notes: [0, 1, 4, 5, 6, 8, 10, 11]
+- intervals: [2, 2, 2, 2, 1, 3]
+  name: Eskimo Hexatonic
+  notes: [0, 2, 4, 6, 8, 9]
+  origin: Alaska
+- intervals: [2, 2, 2, 2, 3, 1]
+  name: Eskimo Hexatonic 2
+  notes: [0, 2, 4, 6, 8, 11]
+  origin: Alaska
+- intervals: [1, 2, 1, 1, 1, 2, 2, 2]
+  name: Esplá
+  notes: [0, 1, 3, 4, 5, 6, 8, 10]
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Ezel
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: Ethiopia
+- intervals: [1, 2, 1, 1, 2, 1, 2, 2]
+  name: Flamenco
+  notes: [0, 1, 3, 4, 5, 7, 8, 10]
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Freygish or Fraigish
+  notes: [0, 1, 4, 5, 7, 8, 10]
+- intervals: [2, 1, 2, 2, 1, 1, 1, 1, 1]
+  name: Full Minor All Flats
+  notes: [0, 2, 3, 5, 7, 8, 9, 10, 11]
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Geez
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: Ethiopia
+- intervals: [1, 2, 1, 1, 2, 1, 1, 2, 1]
+  name: Genus Chromaticum
+  notes: [0, 1, 3, 4, 5, 7, 8, 9, 11]
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Genus Diatonicum
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Genus Diatonicum Veterum Correctum
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+- intervals: [4, 1, 2, 2, 2, 1]
+  name: Genus Secundum
+  notes: [0, 4, 5, 7, 9, 11]
+- intervals: [3, 1, 3, 1, 3, 1]
+  name: Genus Tertium
+  notes: [0, 3, 4, 7, 8, 11]
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Ghana Heptatonic
+  notes: [0, 2, 4, 5, 7, 9, 11]
+  origin: Ghana
+- intervals: [2, 1, 2, 2, 5]
+  name: Ghana Pentatonic
+  notes: [0, 2, 3, 5, 7]
+  origin: Ghana
+- intervals: [2, 2, 3, 2, 3]
+  name: Ghana Pentatonic 2
+  notes: [0, 2, 4, 7, 9]
+  origin: Ghana
+- intervals: [2, 2, 3, 2, 3]
+  name: Gong
+  notes: [0, 2, 4, 7, 9]
+  origin: China
+- intervals: [1, 3, 1, 1, 6]
+  name: Greek Arkaik
+  notes: [0, 1, 4, 5, 6]
+  origin: Greece
+- intervals: [2, 1, 2, 2, 1, 1, 1, 2]
+  name: Gregorian 1
+  notes: [0, 2, 3, 5, 7, 8, 9, 10]
+- intervals: [2, 2, 1, 2, 2, 1, 2]
+  name: Gregorian 2
+  notes: [0, 2, 4, 5, 7, 9, 10]
+- intervals: [1, 2, 2, 2, 1, 2, 1, 1]
+  name: Gregorian 3
+  notes: [0, 1, 3, 5, 7, 8, 10, 11]
+- intervals: [2, 1, 2, 2, 1, 2, 1, 1]
+  name: Gregorian 4
+  notes: [0, 2, 3, 5, 7, 8, 10, 11]
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Gregorian 5
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Gregorian 6
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+- intervals: [2, 2, 1, 2, 2, 1, 2]
+  name: Gregorian 7
+  notes: [0, 2, 4, 5, 7, 9, 10]
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Gregorian 8
+  notes: [0, 2, 3, 5, 7, 9, 10]
+- intervals: [2, 2, 2, 1, 2, 2, 1]
+  name: Gu
+  notes: [0, 2, 4, 6, 7, 9, 11]
+  origin: China
+- intervals: [3, 2, 2, 3, 2]
+  name: Gu Xian
+  notes: [0, 3, 5, 7, 10]
+  origin: China
+- intervals: [2, 1, 3, 1, 1, 2, 2]
+  name: Gypsy
+  notes: [0, 2, 3, 6, 7, 8, 10]
+  origin: Hungary
+- intervals: [1, 4, 1, 2, 1, 1, 2]
+  name: Gypsy 2
+  notes: [0, 1, 5, 6, 8, 9, 10]
+  origin: Hungary
+- intervals: [1, 3, 1, 2, 1, 1, 3]
+  name: Gypsy Hexatonic
+  notes: [0, 1, 4, 5, 7, 8, 9]
+  origin: Hungarian
+- intervals: [3, 1, 1, 2, 1, 3, 1]
+  name: Gypsy Hexatonic Inverse
+  notes: [0, 3, 4, 5, 7, 8, 11]
+  origin: Hungary
+- intervals: [1, 3, 1, 2, 2, 2, 1]
+  name: Gypsy Inverse
+  notes: [0, 1, 4, 5, 7, 9, 11]
+  origin: Hungary
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: Gypsy Minor
+  notes: [0, 2, 3, 6, 7, 8, 11]
+  origin: Hungary
+- intervals: [2, 1, 2, 1, 2, 2, 2]
+  name: Half Diminished
+  notes: [0, 2, 3, 5, 6, 8, 10]
+- intervals: [1, 2, 2, 2, 1, 2, 1, 1]
+  name: Hamel
+  notes: [0, 1, 3, 5, 7, 8, 10, 11]
+- intervals: [2, 3, 2, 1, 4]
+  name: Han-Kumoi
+  notes: [0, 2, 5, 7, 8]
+- intervals: [2, 2, 1, 2, 1, 3, 1]
+  name: Harmonic Major
+  notes: [0, 2, 4, 5, 7, 8, 11]
+- intervals: [2, 2, 1, 3, 1, 2, 1]
+  name: Harmonic Major 2
+  notes: [0, 2, 4, 5, 8, 9, 11]
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Harmonic Major Inverse
+  notes: [0, 1, 4, 5, 7, 8, 10]
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Harmonic Minor
+  notes: [0, 2, 3, 5, 7, 8, 11]
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: 'Harmonic Minor #4'
+  notes: [0, 2, 3, 6, 7, 8, 11]
+- intervals: [2, 1, 2, 1, 2, 3, 1]
+  name: Harmonic Minor b5
+  notes: [0, 2, 3, 5, 6, 8, 11]
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Harmonic Minor Inverse
+  notes: [0, 1, 4, 5, 7, 9, 10]
+- intervals: [1, 1, 1, 2, 2, 1, 3, 1]
+  name: Harmonic Neapolitan Minor
+  notes: [0, 1, 2, 3, 5, 7, 8, 11]
+  origin: Italy
+- intervals: [2, 1, 4, 2, 2, 1]
+  name: Hawaiian
+  notes: [0, 2, 3, 7, 9, 11]
+  origin: Hawaii
+- intervals: [2, 2, 2, 2, 2, 2]
+  name: Hexatonic
+  notes: [0, 2, 4, 6, 8, 10]
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Hijaz Kar
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: Arabia
+- intervals: [1, 4, 1, 2, 1, 1, 2]
+  name: Hijaz Major
+  notes: [0, 1, 5, 6, 8, 9, 10]
+  origin: Greece
+- intervals: [1, 2, 3, 1, 2, 1, 2]
+  name: Hindi b2 b3 b7
+  notes: [0, 1, 3, 6, 7, 9, 10]
+- intervals: [2, 2, 1, 2, 1, 2, 2]
+  name: Hindu
+  notes: [0, 2, 4, 5, 7, 8, 10]
+  origin: India
+- intervals: [4, 2, 1, 4, 1]
+  name: Hirajoshi
+  notes: [0, 4, 6, 7, 11]
+  origin: Japan
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Hitzaz or Hijaz
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Greece
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Hitzazkiar (or Hijazskiar)
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: Greece
+- intervals: [1, 2, 2, 1, 4, 2]
+  name: Honkoshi
+  notes: [0, 1, 3, 5, 6, 10]
+  origin: Japan
+- intervals: [1, 4, 1, 4, 2]
+  name: Hon-Kumoi-Joshi
+  notes: [0, 1, 5, 6, 10]
+  origin: Japan
+- intervals: [2, 1, 1, 1, 2, 1, 1, 1, 2]
+  name: Houseini
+  notes: [0, 2, 3, 4, 5, 7, 8, 9, 10]
+  origin: Greece
+- intervals: [3, 1, 1, 2, 2, 2, 1]
+  name: Houzam (or Huzam)
+  notes: [0, 3, 4, 5, 7, 9, 11]
+  origin: Greece
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Humayun
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Iraq
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Hungarian Folk
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: Hungary
+- intervals: [2, 1, 3, 1, 1, 2, 2]
+  name: Hungarian Gypsy
+  notes: [0, 2, 3, 6, 7, 8, 10]
+  origin: Hungary
+- intervals: [3, 1, 2, 1, 2, 1, 2]
+  name: Hungarian Major
+  notes: [0, 3, 4, 6, 7, 9, 10]
+  origin: Hungary
+- intervals: [2, 1, 2, 1, 2, 1, 3]
+  name: Hungarian Major Inverse
+  notes: [0, 2, 3, 5, 6, 8, 9]
+  origin: Hungary
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: Hungarian Minor
+  notes: [0, 2, 3, 6, 7, 8, 11]
+  origin: Hungary
+- intervals: [1, 1, 1, 3, 1, 1, 3, 1]
+  name: Hungarian Minor b2
+  notes: [0, 1, 2, 3, 6, 7, 8, 11]
+  origin: Hungary
+- intervals: [1, 3, 1, 1, 3, 1, 2]
+  name: Hungarian Minor Inverse
+  notes: [0, 1, 4, 5, 6, 9, 10]
+  origin: Hungary
+- intervals: [3, 2, 2, 2, 3]
+  name: Hybrid Pentatonic
+  notes: [0, 3, 5, 7, 9]
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Hyojo
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: Japan
+- intervals: [1, 4, 2, 3, 2]
+  name: Ian Iwato
+  notes: [0, 1, 5, 7, 10]
+  origin: Japan
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Ichilkotsucho (or Ishikosucho)
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+- intervals: [1, 3, 2, 1, 4]
+  name: In
+  notes: [0, 1, 4, 6, 7]
+  origin: Japan
+- intervals: [1, 4, 2, 1, 2, 2]
+  name: Insen
+  notes: [0, 1, 5, 7, 8, 10]
+  origin: Japan
+- intervals: [1, 4, 2, 3, 2]
+  name: Insen Pentatonic
+  notes: [0, 1, 5, 7, 10]
+  origin: Japan
+- intervals: [1, 3, 1, 3, 1, 3]
+  name: Inverted Augmented
+  notes: [0, 1, 4, 5, 8, 9]
+- intervals: [2, 2, 1, 3, 1, 2, 1]
+  name: Ioanian Augmented
+  notes: [0, 2, 4, 5, 8, 9, 11]
+- intervals: [3, 1, 1, 2, 2, 2, 1]
+  name: 'Ionian #2'
+  notes: [0, 3, 4, 5, 7, 9, 11]
+- intervals: [2, 2, 1, 3, 1, 2, 1]
+  name: 'Ionian #5'
+  notes: [0, 2, 4, 5, 8, 9, 11]
+- intervals: [3, 1, 1, 3, 1, 2, 1]
+  name: 'Ionian Augmented #2'
+  notes: [0, 3, 4, 5, 8, 9, 11]
+- intervals: [1, 3, 1, 3, 1, 2, 1]
+  name: Ionian Augmented b9
+  notes: [0, 1, 4, 5, 8, 9, 11]
+- intervals: [2, 2, 1, 1, 3, 2, 1]
+  name: Ionian b5
+  notes: [0, 2, 4, 5, 6, 9, 11]
+- intervals: [4, 1, 2, 4, 1]
+  name: Ionian Pentatonic
+  notes: [0, 4, 5, 7, 11]
+- intervals: [1, 2, 1, 2, 1, 5]
+  name: Istrian
+  notes: [0, 1, 3, 4, 6, 7]
+  origin: Croatia
+- intervals: [1, 4, 1, 4, 2]
+  name: Iwato
+  notes: [0, 1, 5, 6, 10]
+  origin: Japan
+- intervals: [1, 2, 2, 2, 2, 1, 2]
+  name: Javanese
+  notes: [0, 1, 3, 5, 7, 9, 10]
+  origin: Java
+- intervals: [1, 2, 2, 2, 2, 1, 2]
+  name: Jazz Minor Inverse
+  notes: [0, 1, 3, 5, 7, 9, 10]
+- intervals: [2, 1, 2, 1, 3, 2, 1]
+  name: Jeths
+  notes: [0, 2, 3, 5, 6, 9, 11]
+- intervals: [3, 2, 2, 3, 2]
+  name: Jia Zhong
+  notes: [0, 3, 5, 7, 10]
+  origin: China
+- intervals: [3, 2, 3, 2, 2]
+  name: Jiao
+  notes: [0, 3, 5, 8, 10]
+  origin: China
+- intervals: [2, 3, 2, 3, 2]
+  name: Jin-Yu (or Quin-Yu)
+  notes: [0, 2, 5, 7, 10]
+  origin: China
+- intervals: [4, 1, 2, 3, 2]
+  name: Jog
+  notes: [0, 4, 5, 7, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 1, 3]
+  name: John Found’s Mantra Of Will
+  notes: [0, 1, 4, 6, 7, 8, 9]
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Kaffa
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Ethiopia
+- intervals: [2, 1, 2, 1, 3, 1, 2]
+  name: Kartzihiar
+  notes: [0, 2, 3, 5, 6, 9, 10]
+  origin: Greece
+- intervals: [2, 1, 4, 1, 4]
+  name: Kata-Kumoi
+  notes: [0, 2, 3, 7, 8]
+  origin: Japan
+- intervals: [2, 1, 2, 1, 1, 1, 1, 1, 2]
+  name: Kiourdi
+  notes: [0, 2, 3, 5, 6, 7, 8, 9, 10]
+  origin: Greece
+- intervals: [1, 4, 2, 3, 2]
+  name: Kokin-Choshi
+  notes: [0, 1, 5, 7, 10]
+  origin: Japan
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Kubilai
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+  origin: Mongolia
+- intervals: [2, 1, 4, 2, 3]
+  name: Kumoi
+  notes: [0, 2, 3, 7, 9]
+  origin: Japan
+- intervals: [2, 2, 2, 3, 3]
+  name: Kung
+  notes: [0, 2, 4, 6, 9]
+- intervals: [3, 2, 2, 2, 3]
+  name: Kyemyonjo
+  notes: [0, 3, 5, 7, 9]
+- intervals: [3, 2, 2, 3, 2]
+  name: Lai Noi
+  notes: [0, 3, 5, 7, 10]
+  origin: Laos
+- intervals: [2, 3, 2, 2, 3]
+  name: Lai Po Sai
+  notes: [0, 2, 5, 7, 9]
+  origin: Laos
+- intervals: [2, 3, 2, 2, 3]
+  name: Lai Soutsanaen
+  notes: [0, 2, 5, 7, 9]
+  origin: Laos
+- intervals: [3, 2, 2, 3, 2]
+  name: Lai Yai
+  notes: [0, 3, 5, 7, 10]
+  origin: Laos
+- intervals: [2, 2, 2, 2, 2, 1, 1]
+  name: Leading Whole-Tone
+  notes: [0, 2, 4, 6, 8, 10, 11]
+- intervals: [1, 1, 2, 2, 2, 2, 2]
+  name: Leading Whole-Tone Inverse
+  notes: [0, 1, 2, 4, 6, 8, 10]
+- intervals: [1, 2, 1, 1, 2, 2, 1, 2]
+  name: LG Octatonic
+  notes: [0, 1, 3, 4, 5, 7, 9, 10]
+- intervals: [1, 2, 2, 1, 2, 2, 2]
+  name: Locrian
+  notes: [0, 1, 3, 5, 6, 8, 10]
+- intervals: [1, 2, 2, 1, 3, 1, 2]
+  name: 'Locrian #6'
+  notes: [0, 1, 3, 5, 6, 9, 10]
+- intervals: [1, 2, 1, 2, 2, 2, 2]
+  name: Locrian b4
+  notes: [0, 1, 3, 4, 6, 8, 10]
+- intervals: [1, 1, 3, 1, 2, 1, 3]
+  name: Locrian bb3 bb7
+  notes: [0, 1, 2, 5, 6, 8, 9]
+- intervals: [1, 2, 2, 1, 2, 1, 3]
+  name: Locrian bb7
+  notes: [0, 1, 3, 5, 6, 8, 9]
+- intervals: [1, 3, 1, 1, 2, 2, 2]
+  name: Locrian Dominant
+  notes: [0, 1, 4, 5, 6, 8, 10]
+- intervals: [1, 2, 2, 1, 2, 3, 1]
+  name: Locrian Maj7
+  notes: [0, 1, 3, 5, 6, 8, 11]
+- intervals: [2, 1, 2, 1, 2, 2, 2]
+  name: Locrian Natural 2
+  notes: [0, 2, 3, 5, 6, 8, 10]
+- intervals: [1, 2, 2, 1, 3, 1, 2]
+  name: Locrian Natural Maj6
+  notes: [0, 1, 3, 5, 6, 9, 10]
+- intervals: [3, 1, 2, 4, 2]
+  name: Locrian Pentatonic
+  notes: [0, 3, 4, 6, 10]
+- intervals: [2, 2, 2, 1, 2, 2, 1]
+  name: Lydian
+  notes: [0, 2, 4, 6, 7, 9, 11]
+- intervals: [3, 1, 2, 1, 2, 2, 1]
+  name: 'Lydian #2'
+  notes: [0, 3, 4, 6, 7, 9, 11]
+- intervals: [3, 1, 2, 1, 3, 1, 1]
+  name: 'Lydian #2 #6'
+  notes: [0, 3, 4, 6, 7, 10, 11]
+- intervals: [3, 1, 3, 2, 2, 1]
+  name: 'Lydian #2 Hexatonic'
+  notes: [0, 3, 4, 7, 9, 11]
+- intervals: [2, 2, 2, 2, 1, 2, 1]
+  name: 'Lydian #5'
+  notes: [0, 2, 4, 6, 8, 9, 11]
+- intervals: [2, 2, 2, 1, 3, 1, 1]
+  name: 'Lydian #6'
+  notes: [0, 2, 4, 6, 7, 10, 11]
+- intervals: [2, 2, 2, 2, 1, 2, 1]
+  name: Lydian Augmented
+  notes: [0, 2, 4, 6, 8, 9, 11]
+- intervals: [3, 1, 2, 2, 1, 2, 1]
+  name: 'Lydian Augmented #2'
+  notes: [0, 3, 4, 6, 8, 9, 11]
+- intervals: [2, 3, 1, 2, 1, 2, 1]
+  name: 'Lydian Augmented #3'
+  notes: [0, 2, 5, 6, 8, 9, 11]
+- intervals: [2, 2, 2, 2, 1, 1, 2]
+  name: Lydian Augmented Dominant
+  notes: [0, 2, 4, 6, 8, 9, 10]
+- intervals: [2, 1, 3, 1, 2, 2, 1]
+  name: Lydian b3
+  notes: [0, 2, 3, 6, 7, 9, 11]
+- intervals: [2, 2, 2, 1, 2, 1, 2]
+  name: Lydian b7
+  notes: [0, 2, 4, 6, 7, 9, 10]
+- intervals: [2, 1, 3, 1, 2, 2, 1]
+  name: Lydian Diminished
+  notes: [0, 2, 3, 6, 7, 9, 11]
+- intervals: [2, 2, 2, 1, 2, 1, 2]
+  name: Lydian Dominant
+  notes: [0, 2, 4, 6, 7, 9, 10]
+- intervals: [2, 2, 2, 1, 1, 2, 2]
+  name: Lydian Dominant b6
+  notes: [0, 2, 4, 6, 7, 8, 10]
+- intervals: [2, 2, 3, 2, 2, 1]
+  name: Lydian Hexatonic
+  notes: [0, 2, 4, 7, 9, 11]
+- intervals: [2, 2, 2, 1, 1, 2, 2]
+  name: Lydian Minor
+  notes: [0, 2, 4, 6, 7, 8, 10]
+- intervals: [2, 2, 1, 1, 1, 2, 1, 1, 1]
+  name: Lydian Mixolydian
+  notes: [0, 2, 4, 5, 6, 7, 9, 10, 11]
+- intervals: [4, 2, 1, 4, 1]
+  name: Lydian Pentatonic
+  notes: [0, 4, 6, 7, 11]
+- intervals: [1, 2, 4, 1, 4]
+  name: Madenda Modern
+  notes: [0, 1, 3, 7, 8]
+- intervals: [1, 2, 1, 2, 2, 1, 2, 1]
+  name: Magen Abot
+  notes: [0, 1, 3, 4, 6, 8, 9, 11]
+  origin: Jewish
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Major
+  notes: [0, 2, 4, 5, 7, 9, 11]
+- intervals: [3, 1, 3, 1, 3, 1]
+  name: Major Augmented
+  notes: [0, 3, 4, 7, 8, 11]
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Major Gypsy
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: Hungary
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Major Inverse
+  notes: [0, 1, 3, 5, 7, 8, 10]
+- intervals: [2, 2, 1, 1, 2, 2, 2]
+  name: Major Locrian
+  notes: [0, 2, 4, 5, 6, 8, 10]
+- intervals: [2, 2, 1, 2, 1, 2, 2]
+  name: Major Minor
+  notes: [0, 2, 4, 5, 7, 8, 10]
+- intervals: [2, 1, 1, 1, 2, 1, 1, 1, 1, 1]
+  name: Major Minor Mixed
+  notes: [0, 2, 3, 4, 5, 7, 8, 9, 10, 11]
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Major Mixolydian
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+- intervals: [2, 2, 3, 2, 3]
+  name: Major Pentatonic
+  notes: [0, 2, 4, 7, 9]
+- intervals: [1, 3, 3, 2, 3]
+  name: Major Pentatonic b2
+  notes: [0, 1, 4, 7, 9]
+- intervals: [1, 3, 2, 3, 3]
+  name: Major Pentatonic b2 b5
+  notes: [0, 1, 4, 6, 9]
+- intervals: [1, 2, 3, 3, 3]
+  name: Major Pentatonic b3
+  notes: [0, 1, 3, 6, 9]
+- intervals: [2, 2, 3, 1, 4]
+  name: Major Pentatonic b6
+  notes: [0, 2, 4, 7, 8]
+- intervals: [3, 1, 3, 3, 2]
+  name: 'Major Pentatonic b7 #9'
+  notes: [0, 3, 4, 7, 10]
+- intervals: [2, 1, 1, 1, 2, 2, 1, 1, 1]
+  name: Major-Dorian Mixed
+  notes: [0, 2, 3, 4, 5, 7, 9, 10, 11]
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Major-Lydian Mixed
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+- intervals: [1, 2, 2, 1, 2, 2, 2]
+  name: Makam Lami
+  notes: [0, 1, 3, 5, 6, 8, 10]
+  origin: Jewish
+- intervals: [3, 2, 3, 2, 2]
+  name: Man Gong
+  notes: [0, 3, 5, 8, 10]
+- intervals: [2, 2, 3, 2, 3]
+  name: Man Jue
+  notes: [0, 2, 4, 7, 9]
+  origin: China
+- intervals: [1, 2, 3, 1, 1, 3, 1]
+  name: Maqam Athar Kurd
+  notes: [0, 1, 3, 6, 7, 8, 11]
+  origin: Iraq
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Maqam Bayat-e-Esfahan
+  notes: [0, 2, 3, 5, 7, 8, 11]
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Maqam Cargah
+  notes: [0, 2, 4, 5, 7, 9, 11]
+  origin: Iraq
+- intervals: [2, 1, 2, 2, 1, 2, 1, 1]
+  name: Maqam Farahfaza
+  notes: [0, 2, 3, 5, 7, 8, 10, 11]
+  origin: Iraq
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Maqam Hedjaz
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Iraq
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Maqam Hicaz
+  notes: [0, 1, 4, 5, 7, 9, 10]
+  origin: Iraq
+- intervals: [1, 3, 1, 2, 1, 2, 1, 1]
+  name: Maqam Hijaz
+  notes: [0, 1, 4, 5, 7, 8, 10, 11]
+  origin: Iraq
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Maqam Hijaz Kar
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: Iraq
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Maqam Hijaz-Nahawand
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Iraq
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: Maqam Hisar
+  notes: [0, 2, 3, 6, 7, 8, 11]
+  origin: Iraq
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Maqam Humayun
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Iraq
+- intervals: [1, 2, 1, 3, 1, 2, 2]
+  name: Maqam Huzzam
+  notes: [0, 1, 3, 4, 7, 8, 10]
+  origin: Iraq
+- intervals: [2, 1, 2, 1, 3, 1, 2]
+  name: Maqam Karcigar
+  notes: [0, 2, 3, 5, 6, 9, 10]
+  origin: Iraq
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Maqam Kurd
+  notes: [0, 1, 3, 5, 7, 8, 10]
+  origin: Iraq
+- intervals: [2, 1, 2, 2, 1, 2, 1, 1]
+  name: Maqam Nahawand
+  notes: [0, 2, 3, 5, 7, 8, 10, 11]
+  origin: Iraq
+- intervals: [2, 1, 2, 1, 3, 1, 2]
+  name: Maqam Nahawand Murassah
+  notes: [0, 2, 3, 5, 6, 9, 10]
+  origin: Iraq
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Maqam Nakriz
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Iraq
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: Maqam Nawa Athar
+  notes: [0, 2, 3, 6, 7, 8, 11]
+  origin: Iraq
+- intervals: [1, 2, 1, 3, 1, 2, 2]
+  name: Maqam Saba Zamzam
+  notes: [0, 1, 3, 4, 7, 8, 10]
+  origin: Iraq
+- intervals: [1, 2, 1, 1, 1, 3, 1, 2]
+  name: Maqam Shadd’araban
+  notes: [0, 1, 3, 4, 5, 6, 9, 10]
+  origin: Iraq
+- intervals: [1, 2, 2, 2, 1, 3, 1]
+  name: Maqam Shahnaz (or Shahnaz Kurdi)
+  notes: [0, 1, 3, 5, 7, 8, 11]
+  origin: Iraq
+- intervals: [2, 1, 1, 1, 1, 1, 1, 1, 2, 1]
+  name: Maqam Shawq Afza
+  notes: [0, 2, 3, 4, 5, 6, 7, 8, 9, 11]
+  origin: Iraq
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Maqam Shawq Awir
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+  origin: Iraq
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Maqam Sultani Yakah
+  notes: [0, 2, 3, 5, 7, 8, 11]
+  origin: Iraq
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Maqam Suzidil
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: Iraq
+- intervals: [1, 2, 1, 1, 1, 1, 1, 1, 1, 2]
+  name: Maqam Tarzanuyn
+  notes: [0, 1, 3, 4, 5, 6, 7, 8, 9, 10]
+  origin: Iraq
+- intervals: [2, 2, 1, 2, 1, 2, 2]
+  name: Maqam Ussak
+  notes: [0, 2, 4, 5, 7, 8, 10]
+  origin: Iraq
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Maqam Zanjaran
+  notes: [0, 1, 4, 5, 7, 9, 10]
+  origin: Iraq
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Maqam Zengule
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Iraq
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Mela Bhairavi That
+  notes: [0, 1, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [1, 2, 3, 1, 1, 2, 2]
+  name: Mela Bhavapriya
+  notes: [0, 1, 3, 6, 7, 8, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Mela Cakravka
+  notes: [0, 1, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [3, 1, 1, 2, 3, 2]
+  name: Mela Calanata
+  notes: [0, 3, 4, 5, 7, 10]
+  origin: India
+- intervals: [2, 2, 1, 2, 1, 2, 2]
+  name: Mela Carukesi
+  notes: [0, 2, 4, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 2, 2, 1, 3, 1, 1]
+  name: Mela Citrambari
+  notes: [0, 2, 4, 6, 7, 10, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 2, 2, 1]
+  name: Mela Dharmavati
+  notes: [0, 2, 3, 6, 7, 9, 11]
+  origin: India
+- intervals: [3, 1, 2, 1, 1, 3, 1]
+  name: Mela Dhatuvardhani
+  notes: [0, 3, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 1, 3]
+  name: Mela Dhavalambari
+  notes: [0, 1, 4, 6, 7, 8, 9]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 3, 1]
+  name: Mela Dhenuka
+  notes: [0, 1, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 3, 1, 1]
+  name: Mela Divyamani
+  notes: [0, 1, 3, 6, 7, 10, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 2, 1]
+  name: Mela Gamanasrama
+  notes: [0, 1, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 1, 3, 1]
+  name: Mela Ganamurti
+  notes: [0, 1, 2, 5, 7, 8, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 1, 3, 1]
+  name: Mela Gangeyabhusani
+  notes: [0, 3, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 2, 1]
+  name: Mela Gaurimanohari
+  notes: [0, 2, 3, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 1, 1, 3]
+  name: Mela Gavambodhi
+  notes: [0, 1, 3, 6, 7, 8, 9]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 1, 1]
+  name: Mela Gayakapriya
+  notes: [0, 1, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Mela Hanumatodi
+  notes: [0, 1, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Mela Harikamboji
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 3, 1, 1]
+  name: Mela Hatakambari
+  notes: [0, 1, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Mela Hemavati
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: India
+- intervals: [1, 1, 3, 1, 1, 2, 2]
+  name: Mela Jalarnava
+  notes: [0, 1, 2, 5, 6, 7, 9]
+  origin: India
+- intervals: [1, 1, 3, 1, 1, 3, 1]
+  name: Mela Jhalavarli
+  notes: [0, 1, 2, 5, 6, 7, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 1, 3]
+  name: Mela Jhankaradhvani
+  notes: [0, 2, 3, 5, 7, 8, 9]
+  origin: India
+- intervals: [3, 1, 2, 1, 1, 2, 2]
+  name: Mela Jyotisvarupini
+  notes: [0, 3, 4, 6, 7, 8, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Mela Kamavardhani
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 1, 1, 3]
+  name: Mela Kanakangi
+  notes: [0, 1, 2, 5, 7, 8, 9]
+  origin: India
+- intervals: [2, 2, 2, 1, 1, 1, 3]
+  name: Mela Kantamani
+  notes: [0, 2, 4, 6, 7, 8, 9]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Mela Kharaharapriya
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Mela Kiravani
+  notes: [0, 2, 3, 5, 7, 8, 11]
+- intervals: [1, 2, 2, 2, 2, 2, 1]
+  name: Mela Kokilapriya
+  notes: [0, 1, 3, 5, 7, 9, 11]
+  origin: India
+- intervals: [3, 1, 2, 1, 2, 2, 1]
+  name: Mela Kosalam
+  notes: [0, 3, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 1, 3, 1]
+  name: Mela Latangi
+  notes: [0, 2, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 2, 2, 1]
+  name: Mela Manavati
+  notes: [0, 1, 2, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Mela Mayamalavagowla
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 2, 2, 1]
+  name: Mela Mecakalyani
+  notes: [0, 2, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 3, 1, 1]
+  name: Mela Naganandini
+  notes: [0, 2, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 2, 2]
+  name: Mela Namanarayani
+  notes: [0, 1, 4, 6, 7, 8, 10]
+  origin: India
+- intervals: [3, 1, 2, 1, 2, 1, 2]
+  name: Mela Nasikabhusani
+  notes: [0, 3, 4, 6, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Mela Natabhairavi
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [1, 2, 2, 2, 2, 1, 2]
+  name: Mela Natakapriya
+  notes: [0, 1, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 1, 4, 1, 2, 1, 2]
+  name: Mela Navanitam
+  notes: [0, 1, 2, 6, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 3, 1, 3, 1, 1]
+  name: Mela Nitimati
+  notes: [0, 2, 3, 6, 7, 10, 11]
+  origin: India
+- intervals: [1, 1, 4, 1, 2, 2, 1]
+  name: Mela Pavani
+  notes: [0, 1, 2, 6, 7, 9, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 1, 2, 2]
+  name: Mela Ragavardhani
+  notes: [0, 3, 4, 5, 7, 8, 10]
+  origin: India
+- intervals: [1, 1, 4, 1, 3, 1, 1]
+  name: Mela Raghupriya
+  notes: [0, 1, 2, 6, 7, 10, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 1, 2]
+  name: Mela Ramapriya
+  notes: [0, 1, 4, 6, 7, 9, 10]
+  origin: India
+- intervals: [3, 1, 2, 1, 3, 1, 1]
+  name: Mela Rasikapriya
+  notes: [0, 3, 4, 6, 7, 10, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 1, 2, 2]
+  name: Mela Ratnangi
+  notes: [0, 1, 2, 5, 7, 8, 10]
+  origin: India
+- intervals: [1, 2, 2, 2, 3, 1, 1]
+  name: Mela Rupavati
+  notes: [0, 1, 3, 5, 7, 10, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 2, 1, 2]
+  name: Mela Sadvidhmargini
+  notes: [0, 1, 3, 6, 7, 9, 10]
+  origin: India
+- intervals: [1, 1, 4, 1, 1, 1, 3]
+  name: Mela Salaga
+  notes: [0, 1, 2, 6, 7, 8, 9]
+  origin: India
+- intervals: [2, 1, 3, 1, 1, 2, 2]
+  name: Mela Sanmukhapriya
+  notes: [0, 2, 3, 6, 7, 8, 10]
+  origin: India
+- intervals: [2, 2, 1, 2, 1, 3, 1]
+  name: Mela Sarasangi
+  notes: [0, 2, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 3, 1]
+  name: Mela Senavati
+  notes: [0, 1, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Mela Shankarabharanam
+  notes: [0, 2, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 1, 3, 1]
+  name: Mela Shubhapanturavali
+  notes: [0, 1, 3, 6, 7, 8, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 2, 2, 1]
+  name: Mela Sulini
+  notes: [0, 3, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: Mela Sumhendramadhyama
+  notes: [0, 2, 3, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 2, 1]
+  name: Mela Suryakanta
+  notes: [0, 1, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 2, 2, 1]
+  name: Mela Suvarnangi
+  notes: [0, 1, 3, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 1, 1, 3]
+  name: Mela Syamalangi
+  notes: [0, 2, 3, 6, 7, 8, 9]
+  origin: India
+- intervals: [1, 1, 3, 2, 3, 1, 1]
+  name: Mela Tenarupi
+  notes: [0, 1, 2, 5, 7, 10, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 2, 1, 2]
+  name: Mela Vacaspati
+  notes: [0, 2, 4, 6, 7, 9, 10]
+  origin: India
+- intervals: [3, 1, 1, 2, 2, 1, 2]
+  name: Mela Vagadhisvari
+  notes: [0, 3, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Mela Vakulabharanam
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 3, 1, 1]
+  name: Mela Varunapriya
+  notes: [0, 2, 3, 5, 7, 10, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 2, 1, 2]
+  name: Mela Venaspati
+  notes: [0, 1, 2, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 3, 1, 1]
+  name: Mela Visvambhari
+  notes: [0, 1, 4, 6, 7, 10, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 1, 1, 3]
+  name: Mela Yagapriya
+  notes: [0, 3, 4, 5, 7, 8, 9]
+  origin: India
+- intervals: [2, 2, 1, 2, 1, 2, 2]
+  name: Melodic Major
+  notes: [0, 2, 4, 5, 7, 8, 10]
+- intervals: [2, 1, 2, 2, 2, 2, 1]
+  name: Melodic Minor
+  notes: [0, 2, 3, 5, 7, 9, 11]
+- intervals: [2, 1, 3, 1, 2, 2, 1]
+  name: 'Melodic Minor #4'
+  notes: [0, 2, 3, 6, 7, 9, 11]
+- intervals: [4, 1, 2, 4, 1]
+  name: Melog Selisir
+  notes: [0, 4, 5, 7, 11]
+- intervals: [2, 2, 2, 2, 2, 2]
+  name: Messiaen 1st Mode
+  notes: [0, 2, 4, 6, 8, 10]
+- intervals: [1, 3, 1, 3, 1, 3]
+  name: Messiaen 2nd Mode
+  notes: [0, 1, 4, 5, 8, 9]
+- intervals: [1, 2, 1, 2, 1, 2, 1, 2]
+  name: Messiaen 2nd Mode
+  notes: [0, 1, 3, 4, 6, 7, 9, 10]
+- intervals: [2, 1, 2, 1, 2, 1, 2, 1]
+  name: Messiaen 2nd Mode Inverse
+  notes: [0, 2, 3, 5, 6, 8, 9, 11]
+- intervals: [1, 2, 3, 1, 2, 3]
+  name: Messiaen 2nd Mode Truncated
+  notes: [0, 1, 3, 6, 7, 9]
+- intervals: [2, 1, 1, 2, 1, 1, 2, 1, 1]
+  name: Messiaen 3rd Mode
+  notes: [0, 2, 3, 4, 6, 7, 8, 10, 11]
+- intervals: [1, 2, 1, 1, 2, 1, 1, 2, 1]
+  name: Messiaen 3rd Mode Inverse
+  notes: [0, 1, 3, 4, 5, 7, 8, 9, 11]
+- intervals: [1, 1, 3, 1, 1, 1, 3, 1]
+  name: Messiaen 4th Mode
+  notes: [0, 1, 2, 5, 6, 7, 8, 11]
+- intervals: [3, 1, 1, 1, 3, 1, 1, 1]
+  name: Messiaen 4th Mode Inverse
+  notes: [0, 3, 4, 5, 6, 9, 10, 11]
+- intervals: [1, 4, 1, 1, 4, 1]
+  name: Messiaen 5th Mode
+  notes: [0, 1, 5, 6, 7, 11]
+- intervals: [4, 1, 1, 4, 1, 1]
+  name: Messiaen 5th Mode Inverse
+  notes: [0, 4, 5, 6, 10, 11]
+- intervals: [2, 2, 1, 1, 2, 2, 1, 1]
+  name: Messiaen 6th Mode
+  notes: [0, 2, 4, 5, 6, 8, 10, 11]
+- intervals: [1, 1, 2, 2, 1, 1, 2, 2]
+  name: Messiaen 6th Mode Inverse
+  notes: [0, 1, 2, 4, 6, 7, 8, 10]
+- intervals: [1, 1, 1, 2, 1, 1, 1, 1, 2, 1]
+  name: Messiaen 7th Mode
+  notes: [0, 1, 2, 3, 5, 6, 7, 8, 9, 11]
+- intervals: [2, 1, 1, 1, 1, 2, 1, 1, 1, 1]
+  name: Messiaen 7th Mode Inverse
+  notes: [0, 2, 3, 4, 5, 6, 8, 9, 10, 11]
+- intervals: [3, 1, 3, 1, 3, 1]
+  name: Messiaen Truncated 3rd Mode Inv.
+  notes: [0, 3, 4, 7, 8, 11]
+- intervals: [3, 2, 2, 2, 3]
+  name: Minor 6th Added
+  notes: [0, 3, 5, 7, 9]
+- intervals: [2, 1, 2, 1, 2, 2, 2]
+  name: Minor b5
+  notes: [0, 2, 3, 5, 6, 8, 10]
+- intervals: [1, 3, 1, 1, 3, 1, 2]
+  name: Minor Gypsy Inverse
+  notes: [0, 1, 4, 5, 6, 9, 10]
+  origin: Hungary
+- intervals: [2, 1, 2, 2, 3, 2]
+  name: Minor Hexatonic
+  notes: [0, 2, 3, 5, 7, 10]
+- intervals: [2, 1, 2, 1, 2, 2, 2]
+  name: Minor Locrian
+  notes: [0, 2, 3, 5, 6, 8, 10]
+- intervals: [3, 2, 2, 3, 2]
+  name: Minor Pentatonic
+  notes: [0, 3, 5, 7, 10]
+- intervals: [3, 2, 1, 4, 2]
+  name: Minor Pentatonic 7 b5
+  notes: [0, 3, 5, 6, 10]
+- intervals: [2, 1, 1, 1, 1, 1, 2, 1, 1, 1]
+  name: Minor Pentatonic with Leading Tones
+  notes: [0, 2, 3, 4, 5, 6, 7, 9, 10, 11]
+- intervals: [3, 2, 3, 2, 2]
+  name: Minyo
+  notes: [0, 3, 5, 8, 10]
+  origin: Japan
+- intervals: [2, 1, 2, 2, 2, 2, 1]
+  name: Mischung 1
+  notes: [0, 2, 3, 5, 7, 9, 11]
+  origin: Germany
+- intervals: [2, 2, 1, 2, 1, 3, 1]
+  name: Mischung 2
+  notes: [0, 2, 4, 5, 7, 8, 11]
+  origin: Germany
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Mischung 3
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: Germany
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Mischung 5
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: Germany
+- intervals: [2, 2, 1, 2, 1, 2, 2]
+  name: Mischung 6
+  notes: [0, 2, 4, 5, 7, 8, 10]
+  origin: Germany
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Misheberekh
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Jewish
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Mixolydian
+  notes: [0, 2, 3, 5, 7, 9, 10]
+- intervals: [1, 2, 1, 2, 2, 1, 3]
+  name: 'Mixolydian #1'
+  notes: [0, 1, 3, 4, 6, 8, 9]
+- intervals: [2, 2, 2, 1, 2, 1, 2]
+  name: 'Mixolydian #4'
+  notes: [0, 2, 4, 6, 7, 9, 10]
+- intervals: [2, 2, 1, 3, 1, 1, 2]
+  name: Mixolydian Augmented
+  notes: [0, 2, 4, 5, 8, 9, 10]
+- intervals: [1, 3, 1, 3, 1, 1, 2]
+  name: Mixolydian Augmented Maj9
+  notes: [0, 1, 4, 5, 8, 9, 10]
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Mixolydian b2 (or Mixolydian b9)
+  notes: [0, 1, 4, 5, 7, 9, 10]
+- intervals: [2, 2, 1, 1, 3, 1, 2]
+  name: Mixolydian b5
+  notes: [0, 2, 4, 5, 6, 9, 10]
+- intervals: [2, 2, 1, 2, 1, 2, 2]
+  name: Mixolydian b6 (or Mixolydian b13)
+  notes: [0, 2, 4, 5, 7, 8, 10]
+- intervals: [2, 1, 1, 1, 2, 2, 1, 2]
+  name: Mixolydian Dorian
+  notes: [0, 2, 3, 4, 5, 7, 9, 10]
+- intervals: [2, 3, 2, 2, 1, 2]
+  name: Mixolydian Hexatonic
+  notes: [0, 2, 5, 7, 9, 10]
+- intervals: [2, 2, 3, 2, 1, 2]
+  name: Mixolydian Hexatonic 2
+  notes: [0, 2, 4, 7, 9, 10]
+- intervals: [4, 1, 2, 3, 2]
+  name: Mixolydian Pentatonic
+  notes: [0, 4, 5, 7, 10]
+- intervals: [1, 4, 2, 3, 2]
+  name: Miyakobushi
+  notes: [0, 1, 5, 7, 10]
+  origin: Japan
+- intervals: [2, 1, 2, 1, 2, 1, 2, 1]
+  name: Modus Conjunctus
+  notes: [0, 2, 3, 5, 6, 8, 9, 11]
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Mohammedan
+  notes: [0, 2, 3, 5, 7, 8, 11]
+- intervals: [1, 2, 1, 1, 2, 1, 2, 1, 1]
+  name: Moorish Phrygian
+  notes: [0, 1, 3, 4, 5, 7, 8, 10, 11]
+  origin: Spain
+- intervals: [1, 4, 2, 1, 4]
+  name: Naka Zora
+  notes: [0, 1, 5, 7, 8]
+  origin: Japan
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Nam
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: Vietnam
+- intervals: [2, 1, 2, 2, 5]
+  name: Nando-Kyemyonjo
+  notes: [0, 2, 3, 5, 7]
+  origin: Korea
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Natural Minor
+  notes: [0, 2, 3, 5, 7, 8, 10]
+- intervals: [1, 2, 2, 2, 2, 2, 1]
+  name: Neapolitan Major (or Neapolitan)
+  notes: [0, 1, 3, 5, 7, 9, 11]
+  origin: Italy
+- intervals: [1, 2, 1, 3, 2, 2, 1]
+  name: Neapolitan Major b4
+  notes: [0, 1, 3, 4, 7, 9, 11]
+  origin: Italy
+- intervals: [1, 2, 2, 1, 3, 2, 1]
+  name: Neapolitan Major b5
+  notes: [0, 1, 3, 5, 6, 9, 11]
+- intervals: [1, 2, 2, 2, 1, 3, 1]
+  name: Neapolitan Minor
+  notes: [0, 1, 3, 5, 7, 8, 11]
+  origin: Italy
+- intervals: [1, 2, 3, 1, 1, 2, 1, 1]
+  name: Neseveri
+  notes: [0, 1, 3, 6, 7, 8, 10, 11]
+  origin: Greece
+- intervals: [1, 4, 2, 1, 2, 2]
+  name: Niagari
+  notes: [0, 1, 5, 7, 8, 10]
+  origin: Japan
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: Niavent
+  notes: [0, 2, 3, 6, 7, 8, 11]
+  origin: Egypt
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: Niaventi Minor
+  notes: [0, 2, 3, 6, 7, 8, 11]
+  origin: Greece
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Nigriz
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Greece
+- intervals: [2, 3, 2, 1, 1, 2, 1]
+  name: Noh
+  notes: [0, 2, 5, 7, 8, 9, 11]
+  origin: Japan
+- intervals: [2, 3, 1, 2, 1, 2, 1]
+  name: Nohkan
+  notes: [0, 2, 5, 6, 8, 9, 11]
+  origin: Japan
+- intervals: [1, 2, 1, 1, 1, 1, 2, 1]
+  name: Nonatonic 2
+  notes: [0, 1, 3, 4, 5, 6, 7, 9]
+- intervals: [2, 1, 2, 1, 2, 1, 2, 1]
+  name: Octatonic
+  notes: [0, 2, 3, 5, 6, 8, 9, 11]
+- intervals: [1, 3, 2, 1, 4]
+  name: Olympos Enharmonic
+  notes: [0, 1, 4, 6, 7]
+  origin: Greece
+- intervals: [1, 3, 1, 1, 3, 1, 2]
+  name: Oriental
+  notes: [0, 1, 4, 5, 6, 9, 10]
+  origin: China
+- intervals: [1, 3, 1, 1, 3, 1, 1, 1]
+  name: Oriental 2
+  notes: [0, 1, 4, 5, 6, 9, 10, 11]
+  origin: China
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Oshikicho
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: Japan
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Ousak
+  notes: [0, 1, 3, 5, 7, 8, 10]
+  origin: Greece
+- intervals: [2, 2, 2, 1, 2, 1, 2]
+  name: Overtone
+  notes: [0, 2, 4, 6, 7, 9, 10]
+- intervals: [2, 3, 2, 2, 1, 2]
+  name: P’Yongjo
+  notes: [0, 2, 5, 7, 9, 10]
+  origin: Korea
+- intervals: [3, 2, 2, 3, 2]
+  name: P’yongjo-kyemyonjo
+  notes: [0, 3, 5, 7, 10]
+  origin: Korea
+- intervals: [1, 3, 2, 1, 2, 2, 1]
+  name: Peiraiotikos
+  notes: [0, 1, 4, 6, 7, 9, 11]
+  origin: Greece
+- intervals: [4, 1, 2, 4, 1]
+  name: Pelo Degung Modern
+  notes: [0, 4, 5, 7, 11]
+  origin: Bali
+- intervals: [2, 2, 2, 1, 1, 3, 1]
+  name: Pelog
+  notes: [0, 2, 4, 6, 7, 8, 11]
+  origin: Bali
+- intervals: [1, 2, 4, 1, 4]
+  name: Pelog Pentatonic
+  notes: [0, 1, 3, 7, 8]
+- intervals: [4, 2, 2, 2, 2]
+  name: Pentatonic Whole-Tone
+  notes: [0, 4, 6, 8, 10]
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Periaiotikos Minor
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Greece
+- intervals: [1, 3, 1, 1, 2, 3, 1]
+  name: Persian
+  notes: [0, 1, 4, 5, 6, 8, 11]
+  origin: Iraq
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Peruvian Major
+  notes: [0, 2, 4, 5, 7, 9, 11]
+  origin: Peru
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Peruvian Minor
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: Peru
+- intervals: [2, 2, 3, 2, 3]
+  name: Peruvian Major Pentatonic
+  notes: [0, 2, 4, 7, 9]
+  origin: Peru
+- intervals: [3, 2, 2, 3, 2]
+  name: Peruvian Minor Pentatonic
+  notes: [0, 3, 5, 7, 10]
+  origin: Peru
+- intervals: [1, 3, 2, 1, 3, 2]
+  name: Petrushka chord
+  notes: [0, 1, 4, 6, 7, 10]
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Phrygian
+  notes: [0, 1, 3, 5, 7, 8, 10]
+- intervals: [1, 1, 1, 2, 2, 1, 2, 2]
+  name: Phrygian Aeolian b4
+  notes: [0, 1, 2, 3, 5, 7, 8, 10]
+- intervals: [1, 1, 1, 2, 2, 1, 2, 2]
+  name: Phrygian Aeolian Mixed
+  notes: [0, 1, 2, 3, 5, 7, 8, 10]
+- intervals: [1, 2, 1, 3, 1, 2, 2]
+  name: Phrygian b4
+  notes: [0, 1, 3, 4, 7, 8, 10]
+- intervals: [1, 2, 1, 3, 1, 3, 1]
+  name: Phrygian b4 Maj7
+  notes: [0, 1, 3, 4, 7, 8, 11]
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Phrygian Dominant
+  notes: [0, 1, 4, 5, 7, 8, 10]
+- intervals: [3, 2, 2, 1, 2, 2]
+  name: Phrygian Hexatonic
+  notes: [0, 3, 5, 7, 8, 10]
+- intervals: [1, 2, 2, 1, 1, 1, 2, 2]
+  name: Phrygian Locrian
+  notes: [0, 1, 3, 5, 6, 7, 8, 10]
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Phrygian Major
+  notes: [0, 1, 4, 5, 7, 8, 10]
+- intervals: [1, 2, 2, 2, 2, 1, 2]
+  name: Phrygian Mixolydian
+  notes: [0, 1, 3, 5, 7, 9, 10]
+- intervals: [1, 2, 2, 2, 2, 1, 2]
+  name: Phrygian Natural 6
+  notes: [0, 1, 3, 5, 7, 9, 10]
+- intervals: [1, 2, 4, 1, 4]
+  name: Phrygian Pentatonic
+  notes: [0, 1, 3, 7, 8]
+- intervals: [2, 2, 2, 1, 2, 2, 1]
+  name: Ping
+  notes: [0, 2, 4, 6, 7, 9, 11]
+  origin: China
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Pireotikos
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: Greece
+- intervals: [1, 2, 1, 2, 2, 2, 2]
+  name: Pomeroy
+  notes: [0, 1, 3, 4, 6, 8, 10]
+- intervals: [1, 2, 2, 1, 2, 2, 1, 1]
+  name: Prokofiev
+  notes: [0, 1, 3, 5, 6, 8, 10, 11]
+  origin: Russia
+- intervals: [2, 2, 2, 3, 1, 2]
+  name: Prometheus
+  notes: [0, 2, 4, 6, 9, 10]
+- intervals: [1, 3, 1, 3, 1, 3]
+  name: Prometheus Liszt
+  notes: [0, 1, 4, 5, 8, 9]
+- intervals: [1, 3, 2, 3, 1, 2]
+  name: Prometheus Neapolitan
+  notes: [0, 1, 4, 6, 9, 10]
+  origin: Italy
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Puravi b6
+  notes: [0, 1, 4, 6, 7, 8, 11]
+- intervals: [2, 3, 4, 1, 2]
+  name: Pyeong Jo
+  notes: [0, 2, 5, 9, 10]
+  origin: Korea
+- intervals: [2, 1, 4, 3, 2]
+  name: Pygmy
+  notes: [0, 2, 3, 7, 10]
+- intervals: [2, 1, 2, 1, 3, 3]
+  name: Pyramid Hexatonic
+  notes: [0, 2, 3, 5, 6, 9]
+- intervals: [3, 2, 2, 3, 2]
+  name: Qing Shang
+  notes: [0, 3, 5, 7, 10]
+  origin: China
+- intervals: [3, 2, 3, 2, 2]
+  name: Quan Ming
+  notes: [0, 3, 5, 8, 10]
+  origin: China
+- intervals: [2, 3, 2, 3, 2]
+  name: Quin-Yu (or Jin-Yu)
+  notes: [0, 2, 5, 7, 10]
+  origin: China
+- intervals: [3, 2, 2, 3, 2]
+  name: Raga Abheri
+  notes: [0, 3, 5, 7, 10]
+  origin: India
+- intervals: [2, 1, 2, 4, 3]
+  name: Raga Abhogi
+  notes: [0, 2, 3, 5, 9]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Raga Adana
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Raga Ahir Bhairav
+  notes: [0, 1, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 1, 3, 1, 2]
+  name: Raga Ahira Lalita
+  notes: [0, 1, 4, 5, 6, 9, 10]
+  origin: India
+- intervals: [1, 2, 2, 2, 2, 1, 2]
+  name: Raga Ahiri Todi
+  notes: [0, 1, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 2, 2, 1, 2, 3]
+  name: Raga Aivarati
+  notes: [0, 2, 4, 6, 7, 9]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Raga Alhaiya Bilaval
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 4, 1]
+  name: Raga Amarasenapriya
+  notes: [0, 2, 3, 6, 7, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 2, 2, 1]
+  name: Raga Ambika
+  notes: [0, 2, 3, 6, 7, 9, 11]
+  origin: India
+- intervals: [4, 2, 1, 4, 1]
+  name: Raga Amrtavarshini
+  notes: [0, 4, 6, 7, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 1, 1, 2]
+  name: Raga Anandabhairavi
+  notes: [0, 2, 3, 5, 7, 8, 9, 10]
+  origin: India
+- intervals: [2, 2, 1, 2, 3, 2]
+  name: Raga Andhali
+  notes: [0, 2, 4, 5, 7, 10]
+  origin: India
+- intervals: [2, 3, 2, 2, 1, 2]
+  name: Raga Andolika
+  notes: [0, 2, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 3, 2, 2, 3]
+  name: Raga Arabhi ascending
+  notes: [0, 2, 5, 7, 9]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Raga Arabhi descending
+  notes: [0, 2, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 2, 2, 1]
+  name: Raga Arunajualita
+  notes: [0, 2, 3, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Raga Asavari That
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 3, 4]
+  name: Raga Audav Tukhari
+  notes: [0, 2, 3, 5, 8]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 1, 1]
+  name: Raga Bahar
+  notes: [0, 2, 3, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [4, 1, 2, 2, 1, 2]
+  name: Raga Bahudari
+  notes: [0, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 4, 2, 3, 2]
+  name: Raga Bairagi (or Baira)
+  notes: [0, 1, 5, 7, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 2, 1]
+  name: Raga Bairari
+  notes: [0, 1, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Balahamsa
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 2, 2, 3, 1, 2]
+  name: Raga Barbara
+  notes: [0, 2, 4, 6, 9, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Raga Basant
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 3, 1, 3, 1]
+  name: Raga Bauli
+  notes: [0, 1, 4, 7, 8, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Begeshri
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 4, 1, 2]
+  name: Raga Begeshri 2
+  notes: [0, 2, 3, 5, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Raga Bhairav That
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Bhairavi ascending
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Raga Bhairavi descending
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 2, 1]
+  name: Raga Bhairubahar
+  notes: [0, 1, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 1, 1, 3, 2, 1]
+  name: Raga Bhankar
+  notes: [0, 1, 4, 5, 6, 9, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 2, 1, 2]
+  name: Raga Bhanumati
+  notes: [0, 1, 2, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 1, 1, 2, 2, 1]
+  name: Raga Bhatiyar
+  notes: [0, 1, 4, 5, 6, 7, 9, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 1, 2, 2]
+  name: Raga Bhavani
+  notes: [0, 1, 3, 6, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Bhimpalasi
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 3, 2, 1, 3, 1]
+  name: Raga Bhinna Pancama
+  notes: [0, 2, 5, 7, 8, 11]
+  origin: India
+- intervals: [4, 1, 4, 2, 1]
+  name: Raga Bhinna Shadj
+  notes: [0, 4, 5, 9, 11]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 3, 1]
+  name: Raga Bhinnasadjam
+  notes: [0, 1, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 2, 1, 2]
+  name: Raga Bhogachayanata
+  notes: [0, 3, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 2, 3, 2, 3]
+  name: Raga Bhopali
+  notes: [0, 2, 4, 7, 9]
+  origin: India
+- intervals: [3, 1, 1, 2, 3, 2]
+  name: Raga Bhunumanjari
+  notes: [0, 3, 4, 5, 7, 10]
+  origin: India
+- intervals: [2, 2, 3, 2, 3]
+  name: Raga Bhup
+  notes: [0, 2, 4, 7, 9]
+  origin: India
+- intervals: [1, 2, 4, 1, 4]
+  name: Raga Bhupalam
+  notes: [0, 1, 3, 7, 8]
+  origin: India
+- intervals: [2, 2, 3, 1, 4]
+  name: Raga Bhupeshwari
+  notes: [0, 2, 4, 7, 8]
+  origin: India
+- intervals: [2, 2, 2, 1, 2, 1, 2]
+  name: Raga Bhusavati (or Bhusavali)
+  notes: [0, 2, 4, 6, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 3, 2, 3]
+  name: Raga Bibhas
+  notes: [0, 1, 4, 7, 9]
+  origin: India
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Raga Bihag
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Raga Bihagara
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [2, 2, 3, 2, 3]
+  name: Raga Bilahari ascending
+  notes: [0, 2, 4, 7, 9]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Raga Bilahari descending
+  notes: [0, 2, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Raga Bilashkhani Todi
+  notes: [0, 1, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Raga Bindumalini
+  notes: [0, 1, 4, 5, 7, 9, 10]
+  origin: India
+- intervals_ascending: [1, 3, 3, 1, 5]
+  intervals_descending: [1, 3, 3, 1, 3, 1]
+  name: Raga Bowli
+  notes_ascending: [0, 1, 4, 7, 8]
+  notes_descending: [0, 1, 4, 7, 8, 11]
+  origin: India
+- intervals: [2, 3, 2, 3, 1, 1]
+  name: Raga Brindabani (or Brindabani Serang)
+  notes: [0, 2, 5, 7, 10, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 5]
+  name: Raga Budhamanohari
+  notes: [0, 2, 4, 5, 7]
+  origin: India
+- intervals: [2, 1, 3, 1, 1, 2, 2]
+  name: Raga Camara
+  notes: [0, 2, 3, 6, 7, 8, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Raga Chakravakam
+  notes: [0, 1, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 1, 4, 1, 2, 3]
+  name: Raga Chandrajyoti
+  notes: [0, 1, 2, 6, 7, 9]
+  origin: India
+- intervals: [3, 2, 4, 1, 2]
+  name: Raga Chandrakauns Kafi
+  notes: [0, 3, 5, 9, 10]
+  origin: India
+- intervals: [3, 2, 3, 3, 1]
+  name: Raga Chandrakauns Kiravani
+  notes: [0, 3, 5, 8, 11]
+  origin: India
+- intervals: [3, 2, 4, 2, 1]
+  name: Raga Chandrakauns Modern
+  notes: [0, 3, 5, 9, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 3, 1, 1]
+  name: Raga Chaturangini
+  notes: [0, 2, 4, 6, 7, 10, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 4, 1]
+  name: Raga Chaturangini 2
+  notes: [0, 2, 4, 6, 7, 11]
+  origin: India
+- intervals: [1, 2, 3, 2, 4]
+  name: Raga Chaya Todi
+  notes: [0, 1, 3, 6, 8]
+  origin: India
+- intervals: [1, 3, 1, 4, 2, 1]
+  name: Raga Chaya Vati
+  notes: [0, 1, 4, 5, 9, 11]
+  origin: India
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Raga Chayanat
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 2, 1, 2]
+  name: Raga Chayanata
+  notes: [0, 3, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 3, 1, 1, 1, 1, 2]
+  name: Raga Chinthamani
+  notes: [0, 2, 3, 6, 7, 8, 9, 10]
+  origin: India
+- intervals: [1, 2, 2, 3, 4]
+  name: Raga Chitthakarshini
+  notes: [0, 1, 3, 5, 8]
+  origin: India
+- intervals: [3, 1, 1, 2, 1, 2, 2]
+  name: Raga Cudamani
+  notes: [0, 3, 4, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 3, 2, 2, 1, 2]
+  name: Raga Darbar
+  notes: [0, 2, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 3, 2, 4, 1]
+  name: Raga Desh
+  notes: [0, 2, 5, 7, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Raga Desh Malhar
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [1, 6, 1, 3, 1]
+  name: Raga Deshgaur
+  notes: [0, 1, 7, 8, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 1, 1, 2]
+  name: Raga Deshi
+  notes: [0, 2, 3, 5, 7, 8, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 2, 1]
+  name: Raga Deshi 2
+  notes: [0, 2, 3, 5, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Raga Deshi 3
+  notes: [0, 2, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 2, 3, 2, 3]
+  name: Raga Deskar
+  notes: [0, 2, 4, 7, 9]
+  origin: India
+- intervals: [4, 1, 2, 2, 1, 2]
+  name: Raga Desya Khamas
+  notes: [0, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [3, 2, 2, 1, 2, 2]
+  name: Raga Desya Todi
+  notes: [0, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Raga Devagandhari
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [2, 3, 2, 2, 3]
+  name: Raga Devakriya
+  notes: [0, 2, 5, 7, 9]
+  origin: India
+- intervals: [3, 1, 3, 1, 3, 1]
+  name: Raga Devamani
+  notes: [0, 3, 4, 7, 8, 11]
+  origin: India
+- intervals: [2, 3, 2, 2, 1, 2]
+  name: Raga Devamanohari
+  notes: [0, 2, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 3]
+  name: Raga Devarangini 2
+  notes: [0, 2, 4, 5, 7, 9]
+  origin: India
+- intervals: [5, 2, 1, 3, 1]
+  name: Raga Devaranjani (or  Devaranji)
+  notes: [0, 5, 7, 8, 11]
+  origin: India
+- intervals: [3, 1, 2, 1, 1, 3, 1]
+  name: Raga Devarashtra
+  notes: [0, 3, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [3, 2, 2, 3, 2]
+  name: Raga Dhaanyasi ascending
+  notes: [0, 3, 5, 7, 10]
+  origin: India
+- intervals: [3, 2, 2, 3, 2]
+  name: Raga Dhani
+  notes: [0, 3, 5, 7, 10]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Raga Dhanyasi descending
+  notes: [0, 1, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [3, 1, 2, 1, 1, 3, 1]
+  name: Raga Dhauta Pancama
+  notes: [0, 3, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 4]
+  name: Raga Dhavalangam
+  notes: [0, 1, 4, 6, 7, 8]
+  origin: India
+- intervals: [4, 2, 1, 2, 3]
+  name: Raga Dhavalashri
+  notes: [0, 4, 6, 7, 9]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Raga Dhipaka
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 3, 1]
+  name: Raga Dhunibinnashadjam
+  notes: [0, 1, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 2, 1, 1, 1, 5]
+  name: Raga Dipak
+  notes: [0, 2, 4, 5, 6, 7]
+  origin: India
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Raga Disisimharavam
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 3, 1, 2, 2, 1]
+  name: Raga Dumyaraga
+  notes: [0, 2, 3, 6, 7, 9, 11]
+  origin: India
+- intervals: [3, 1, 1, 3, 1, 1, 2]
+  name: Raga Dvigandharabushini
+  notes: [0, 3, 4, 5, 8, 9, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 4, 1]
+  name: Raga Gamakakriya
+  notes: [0, 1, 4, 6, 7, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 1, 3, 1]
+  name: Raga Gamakasamantam
+  notes: [0, 1, 3, 6, 7, 8, 11]
+  origin: India
+- intervals: [4, 1, 2, 4, 1]
+  name: Raga Gambhiranata
+  notes: [0, 4, 5, 7, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 1, 3, 1]
+  name: Raga Ganasamavarali
+  notes: [0, 1, 2, 5, 7, 8, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 2, 1, 2]
+  name: Raga Ganavaridhi
+  notes: [0, 3, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 2, 2, 2, 3, 2]
+  name: Raga Gandharavam
+  notes: [0, 1, 3, 5, 7, 10]
+  origin: India
+- intervals: [4, 1, 1, 2, 3, 1]
+  name: Raga Gangatarangini
+  notes: [0, 4, 5, 6, 8, 11]
+  origin: India
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Raga Gaud Sarang
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 1, 2, 3, 2]
+  name: Raga Gaula
+  notes: [0, 1, 4, 5, 7, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Raga Gaulipantu
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [1, 4, 2, 4, 1]
+  name: Raga Gauri
+  notes: [0, 1, 5, 7, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 3]
+  name: Raga Gauri Velavali
+  notes: [0, 2, 3, 5, 7, 9]
+  origin: India
+- intervals: [3, 3, 1, 3, 1, 1]
+  name: Raga Gaurikriya
+  notes: [0, 3, 6, 7, 10, 11]
+  origin: India
+- intervals: [1, 4, 2, 1, 4]
+  name: Raga Geyahejjajji
+  notes: [0, 1, 5, 7, 8]
+  origin: India
+- intervals: [1, 1, 4, 1, 3, 1, 1]
+  name: Raga Ghandarva
+  notes: [0, 1, 2, 6, 7, 10, 11]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Raga Ghanta
+  notes: [0, 1, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 3, 3, 1]
+  name: Raga Ghantana
+  notes: [0, 2, 3, 5, 8, 11]
+  origin: India
+- intervals: [4, 1, 3, 3, 1]
+  name: Raga Girija
+  notes: [0, 4, 5, 8, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 1, 1, 3]
+  name: Raga Girvani
+  notes: [0, 1, 3, 6, 7, 8, 9]
+  origin: India
+- intervals: [3, 2, 2, 1, 2, 2]
+  name: Raga Gopikacasantam
+  notes: [0, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 3, 1, 3, 2]
+  name: Raga Gopikatilaka
+  notes: [0, 2, 3, 6, 7, 10]
+  origin: India
+- intervals: [2, 2, 2, 2, 2, 2]
+  name: Raga Gopriya
+  notes: [0, 2, 4, 6, 8, 10]
+  origin: India
+- intervals: [2, 3, 2, 2, 1, 2]
+  name: Raga Gorakh
+  notes: [0, 2, 5, 7, 9, 10]
+  origin: India
+- intervals_ascending: [1, 4, 2, 4, 1]
+  intervals_descending: [1, 3, 1, 2, 4, 1]
+  name: Raga Gowla
+  notes_ascending: [0, 1, 5, 7, 11]
+  notes_descending: [0, 1, 4, 5, 7, 11]
+  origin: India
+- intervals: [2, 3, 4, 1, 2]
+  name: Raga Guhamanohari
+  notes: [0, 2, 5, 9, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 4]
+  name: Raga Gunkali
+  notes: [0, 1, 4, 6, 7]
+  origin: India
+- intervals: [1, 2, 3, 2, 2, 2]
+  name: Raga Gurjari Todi
+  notes: [0, 1, 3, 6, 8, 10]
+  origin: India
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Raga Hamir Kalyani
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 4, 4, 1]
+  name: Raga Hamsadhvani
+  notes: [0, 2, 3, 7, 11]
+  origin: India
+- intervals: [2, 2, 3, 4, 1]
+  name: Raga Hamsadhvani 2
+  notes: [0, 2, 4, 7, 11]
+  origin: India
+- intervals: [3, 1, 2, 1, 3, 1, 1]
+  name: Raga Hamsagiri
+  notes: [0, 3, 4, 6, 7, 10, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 1, 3, 1]
+  name: Raga Hamsalata
+  notes: [0, 2, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [2, 4, 1, 4, 1]
+  name: Raga Hamsanada
+  notes: [0, 2, 6, 7, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 4, 1]
+  name: Raga Hamsanarayami
+  notes: [0, 1, 4, 6, 7, 11]
+  origin: India
+- intervals: [1, 3, 2, 3, 2, 1]
+  name: Raga Hansanandi
+  notes: [0, 1, 4, 6, 9, 11]
+  origin: India
+- intervals: [4, 1, 2, 2, 2, 1]
+  name: Raga Hari Nata
+  notes: [0, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [3, 3, 2, 2, 2]
+  name: Raga Harikauns
+  notes: [0, 3, 6, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Harini
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 2, 1, 2, 1, 3, 1]
+  name: Raga Haripriya
+  notes: [0, 2, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 2, 2, 1, 3]
+  name: Raga Hejjajji
+  notes: [0, 1, 4, 6, 8, 9]
+  origin: India
+- intervals: [4, 2, 3, 2, 1]
+  name: Raga Hindol
+  notes: [0, 4, 6, 9, 11]
+  origin: India
+- intervals: [3, 2, 3, 2, 2]
+  name: Raga Hindolam
+  notes: [0, 3, 5, 8, 10]
+  origin: India
+- intervals: [4, 1, 4, 2, 1]
+  name: Raga Hindolita
+  notes: [0, 4, 5, 9, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Huseni
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 4]
+  name: Raga Indupriya
+  notes: [0, 1, 4, 6, 7, 8]
+  origin: India
+- intervals: [2, 4, 1, 1, 2, 2]
+  name: Raga Jaganmohanam
+  notes: [0, 2, 6, 7, 8, 10]
+  origin: India
+- intervals: [4, 1, 2, 4, 1]
+  name: Raga Jaganmohini ascending
+  notes: [0, 4, 5, 7, 11]
+  origin: India
+- intervals: [2, 2, 3, 2, 3]
+  name: Raga Jait Kalyan
+  notes: [0, 2, 4, 7, 9]
+  origin: India
+- intervals: [2, 2, 3, 1, 4]
+  name: Raga Janasammodini
+  notes: [0, 2, 4, 7, 8]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Janjuti
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Raga Jaunpuri
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [3, 2, 1, 4, 2]
+  name: Raga Jayakauns
+  notes: [0, 3, 5, 6, 10]
+  origin: India
+- intervals: [2, 1, 2, 4, 1, 2]
+  name: Raga Jayamanohari
+  notes: [0, 2, 3, 5, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 3, 1, 1]
+  name: Raga Jeyasuddhamalavi
+  notes: [0, 1, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 1, 3]
+  name: Raga Jhankara Bhramavi
+  notes: [0, 2, 3, 5, 7, 8, 9]
+  origin: India
+- intervals: [1, 1, 3, 1, 1, 3, 1]
+  name: Raga Jinavali
+  notes: [0, 1, 2, 5, 6, 7, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Raga Jingla
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: India
+- intervals: [1, 4, 2, 2, 2, 1]
+  name: Raga Jivantika
+  notes: [0, 1, 5, 7, 9, 11]
+  origin: India
+- intervals: [3, 3, 1, 3, 1, 1]
+  name: Raga Jivantini
+  notes: [0, 3, 6, 7, 10, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 3, 2]
+  name: Raga Jog
+  notes: [0, 3, 4, 5, 7, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Raga Jogiya
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: India
+- intervals: [3, 1, 2, 1, 1, 2, 2]
+  name: Raga Jotismatti
+  notes: [0, 3, 4, 6, 7, 8, 10]
+  origin: India
+- intervals: [4, 2, 1, 1, 2, 2]
+  name: Raga Jyoty
+  notes: [0, 4, 6, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Kafi That
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 3, 1, 3, 1, 1]
+  name: Raga Kaihavasi
+  notes: [0, 2, 3, 6, 7, 10, 11]
+  origin: India
+- intervals: [2, 1, 2, 3, 3, 1]
+  name: Raga Kaishikiranjani (or Kaushiranjani)
+  notes: [0, 2, 3, 5, 8, 11]
+  origin: India
+- intervals: [1, 3, 3, 1, 1, 3]
+  name: Raga Kalagada
+  notes: [0, 1, 4, 7, 8, 9]
+  origin: India
+- intervals: [3, 1, 1, 2, 1, 1, 3]
+  name: Raga Kalahamsa
+  notes: [0, 3, 4, 5, 7, 8, 9]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 1, 3]
+  name: Raga Kalakanthi
+  notes: [0, 1, 4, 5, 7, 8, 9]
+  origin: India
+- intervals: [1, 4, 2, 1, 1, 3]
+  name: Raga Kalakanthi 2
+  notes: [0, 1, 5, 7, 8, 9]
+  origin: India
+- intervals: [1, 2, 3, 1, 1, 2, 2]
+  name: Raga Kalamurti
+  notes: [0, 1, 3, 6, 7, 8, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 3]
+  name: Raga Kalavati
+  notes: [0, 1, 4, 5, 7, 9]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Raga Kalingada
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 2, 2, 1]
+  name: Raga Kalyan That
+  notes: [0, 2, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Raga Kalyana Vasantha
+  notes: [0, 2, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 2, 3]
+  name: Raga Kalyani
+  notes: [0, 2, 4, 6, 7, 9]
+  origin: India
+- intervals: [2, 2, 2, 1, 2, 3]
+  name: Raga Kalyani Keseri
+  notes: [0, 2, 4, 6, 7, 9]
+  origin: India
+- intervals: [4, 1, 2, 1, 3, 1]
+  name: Raga Kamalamanohari
+  notes: [0, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [4, 1, 2, 1, 2, 2]
+  name: Raga Kamalamanohari 2
+  notes: [0, 4, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 3]
+  name: Raga Kambhoji
+  notes: [0, 2, 4, 5, 7, 9]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 3]
+  name: Raga Kambodhi ascending
+  notes: [0, 2, 4, 5, 7, 9]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Kambodhi descending
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 2, 3, 2, 2, 1]
+  name: Raga Kamud
+  notes: [0, 2, 4, 7, 9, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 1, 1, 3]
+  name: Raga Kanakambari
+  notes: [0, 1, 2, 5, 7, 8, 9]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Kanara
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 4, 2, 1, 4]
+  name: Raga Kannadabangala
+  notes: [0, 1, 5, 7, 8]
+  origin: India
+- intervals: [1, 2, 4, 1, 2, 2]
+  name: Raga Kashyapi
+  notes: [0, 1, 3, 7, 8, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Raga Kasiramakryia
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [4, 1, 4, 2, 1]
+  name: Raga Kaushikdhvani
+  notes: [0, 4, 5, 9, 11]
+  origin: India
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Raga Kedar
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+  origin: India
+- intervals_ascending: [4, 1, 2, 4, 1]
+  intervals_descending: [2, 2, 1, 2, 4, 1]
+  name: Raga Kedaram
+  notes_ascending: [0, 4, 5, 7, 11]
+  notes_descending: [0, 2, 4, 5, 7, 11]
+  origin: India
+- intervals: [4, 1, 2, 4, 1]
+  name: Raga Keradam ascending
+  notes: [0, 4, 5, 7, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 1, 1, 3]
+  name: Raga Keseri
+  notes: [0, 2, 4, 5, 7, 8, 9]
+  origin: India
+- intervals_ascending: [4, 1, 2, 2, 1, 1, 1]
+  intervals_descending: [2, 2, 1, 2, 2, 1, 2]
+  name: Raga Khamach
+  notes_ascending: [0, 4, 5, 7, 9, 10, 11]
+  notes_descending: [0, 2, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Raga Khamaj
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Khamaj That
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [4, 1, 4, 1, 2]
+  name: Raga Khamaji Durga
+  notes: [0, 4, 5, 9, 10]
+  origin: India
+- intervals: [4, 1, 2, 2, 1, 2]
+  name: Raga Khamas
+  notes: [0, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Khambhavati
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Kharapriya
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Raga Kiranavali
+  notes: [0, 2, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Raga Kirvani
+  notes: [0, 2, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [3, 2, 2, 1, 4]
+  name: Raga Kokil Pancham
+  notes: [0, 3, 5, 7, 8]
+  origin: India
+- intervals: [2, 2, 3, 2, 3]
+  name: Raga Kokila
+  notes: [0, 2, 4, 7, 9]
+  origin: India
+- intervals: [1, 2, 2, 2, 2, 2, 1]
+  name: Raga Kokilaravam
+  notes: [0, 1, 3, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 4, 3, 3, 1]
+  name: Raga Kshanika
+  notes: [0, 1, 5, 8, 11]
+  origin: India
+- intervals: [3, 1, 2, 1, 2, 2, 1]
+  name: Raga Kuksumakaram
+  notes: [0, 3, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [1, 1, 6, 3, 1]
+  name: Raga Kumarapriya
+  notes: [0, 1, 2, 8, 11]
+  origin: India
+- intervals: [2, 2, 2, 5, 1]
+  name: Raga Kumudki
+  notes: [0, 2, 4, 6, 11]
+  origin: India
+- intervals: [2, 2, 2, 5, 1]
+  name: Raga Kumurdaki
+  notes: [0, 2, 4, 6, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 4]
+  name: Raga Kunakri
+  notes: [0, 1, 4, 6, 7]
+  origin: India
+- intervals: [1, 1, 4, 1, 2, 2, 1]
+  name: Raga Kunbhini
+  notes: [0, 1, 2, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 1, 1, 3]
+  name: Raga Kuntala
+  notes: [0, 2, 4, 6, 7, 8, 9]
+  origin: India
+- intervals: [5, 2, 2, 1, 2]
+  name: Raga Kuntvarali (or Kuntalavarali)
+  notes: [0, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 1, 3, 2, 1]
+  name: Raga Lalit
+  notes: [0, 1, 4, 5, 6, 9, 11]
+  origin: India
+- intervals: [1, 3, 1, 3, 3, 1]
+  name: Raga Lalita
+  notes: [0, 1, 4, 5, 8, 11]
+  origin: India
+- intervals: [1, 3, 1, 3, 2, 2]
+  name: Raga Lalita Bhairav
+  notes: [0, 1, 4, 5, 8, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Raga Lalita Panchami
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [1, 4, 2, 3, 2]
+  name: Raga Lasaki
+  notes: [0, 1, 5, 7, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 4]
+  name: Raga Latantapriya
+  notes: [0, 1, 4, 6, 7]
+  origin: India
+- intervals: [2, 2, 3, 1, 3, 1]
+  name: Raga Latika
+  notes: [0, 2, 4, 7, 8, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 1, 3, 1]
+  name: Raga Madhava Manohari
+  notes: [0, 2, 3, 6, 7, 8, 11]
+  origin: India
+- intervals: [2, 3, 2, 3, 2]
+  name: Raga Madhmat Sarang
+  notes: [0, 2, 5, 7, 10]
+  origin: India
+- intervals: [3, 3, 1, 2, 1, 2]
+  name: Raga Madhukauns
+  notes: [0, 3, 6, 7, 9, 10]
+  origin: India
+- intervals: [3, 1, 1, 2, 3, 1, 1]
+  name: Raga Madhuranjani
+  notes: [0, 3, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [4, 1, 2, 2, 1, 1, 1]
+  name: Raga Madhuri
+  notes: [0, 4, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 2, 2, 1]
+  name: Raga Madhuvanti
+  notes: [0, 2, 3, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 3, 2, 3, 2]
+  name: Raga Madhyamavati
+  notes: [0, 2, 5, 7, 10]
+  origin: India
+- intervals_ascending: [1, 4, 2, 1, 4]
+  intervals_descending: [1, 3, 1, 2, 1, 4]
+  name: Raga Malahari
+  notes_ascending: [0, 1, 5, 7, 8]
+  notes_descending: [0, 1, 4, 5, 7, 8]
+  origin: India
+- intervals: [1, 3, 2, 1, 4]
+  name: Raga Malahari ascending
+  notes: [0, 1, 4, 6, 7]
+  origin: India
+- intervals: [2, 4, 1, 3, 1, 1]
+  name: Raga Malarani
+  notes: [0, 2, 6, 7, 10, 11]
+  origin: India
+- intervals: [4, 2, 1, 4, 1]
+  name: Raga Malashri
+  notes: [0, 4, 6, 7, 11]
+  origin: India
+- intervals: [3, 2, 2, 2, 1, 2]
+  name: Raga Malavastri
+  notes: [0, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 3, 2, 1, 2]
+  name: Raga Malayamarutam
+  notes: [0, 1, 4, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 1, 1, 2, 2, 1, 1, 1]
+  name: Raga Malgunji
+  notes: [0, 2, 3, 4, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 1, 3]
+  name: Raga Malini
+  notes: [0, 1, 3, 5, 7, 8, 9]
+  origin: India
+- intervals: [3, 2, 3, 2, 1, 1]
+  name: Raga Malkauns
+  notes: [0, 3, 5, 8, 10, 11]
+  origin: India
+- intervals: [4, 3, 2, 2, 1]
+  name: Raga Mamata
+  notes: [0, 4, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 3, 3, 2]
+  name: Raga Manaranjani
+  notes: [0, 1, 4, 7, 10]
+  origin: India
+- intervals: [1, 4, 2, 2, 3]
+  name: Raga Manaranjani 2
+  notes: [0, 1, 5, 7, 9]
+  origin: India
+- intervals: [2, 1, 4, 2, 1, 2]
+  name: Raga Manavi
+  notes: [0, 2, 3, 7, 9, 10]
+  origin: India
+- intervals: [4, 1, 2, 2, 3]
+  name: Raga Mand
+  notes: [0, 4, 5, 7, 9]
+  origin: India
+- intervals: [1, 3, 2, 1, 4, 1]
+  name: Raga Mandari
+  notes: [0, 1, 4, 6, 7, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 3, 2]
+  name: Raga Manirangu
+  notes: [0, 2, 3, 5, 7, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 1, 1, 2]
+  name: Raga Manji
+  notes: [0, 2, 3, 5, 7, 8, 9, 10]
+  origin: India
+- intervals: [3, 2, 2, 2, 1, 2]
+  name: Raga Manohari
+  notes: [0, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 1, 3, 2, 2, 2, 1]
+  name: Raga Manoranjani
+  notes: [0, 1, 2, 5, 7, 9, 11]
+  origin: India
+- intervals: [3, 2, 4, 2, 1]
+  name: Raga Marga Hindola
+  notes: [0, 3, 5, 9, 11]
+  origin: India
+- intervals: [1, 3, 2, 3, 2, 1]
+  name: Raga Marva
+  notes: [0, 1, 4, 6, 9, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 2, 1]
+  name: Raga Marwa Thaat
+  notes: [0, 1, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 5, 2, 1, 2]
+  name: Raga Matha Kokila
+  notes: [0, 2, 7, 9, 10]
+  origin: India
+- intervals: [2, 3, 2, 3, 1, 1]
+  name: Raga Megh (or Megh Malhar)
+  notes: [0, 2, 5, 7, 10, 11]
+  origin: India
+- intervals: [1, 3, 1, 6, 1]
+  name: Raga Megharamji
+  notes: [0, 1, 4, 5, 11]
+  origin: India
+- intervals: [1, 3, 1, 3, 4]
+  name: Raga Megharanjani
+  notes: [0, 1, 4, 5, 8]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 1, 1]
+  name: Raga Miam Ki Malhar
+  notes: [0, 2, 3, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [2, 2, 3, 2, 3]
+  name: Raga Mohanam
+  notes: [0, 2, 4, 7, 9]
+  origin: India
+- intervals: [3, 1, 3, 2, 3]
+  name: Raga Mohanangi
+  notes: [0, 3, 4, 7, 9]
+  origin: India
+- intervals: [2, 2, 2, 3, 2, 1]
+  name: Raga Mruganandana
+  notes: [0, 2, 4, 6, 9, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 1, 1, 2]
+  name: Raga Mukhari
+  notes: [0, 2, 3, 5, 7, 8, 9, 10]
+  origin: India
+- intervals: [1, 2, 3, 1, 1, 3, 1]
+  name: Raga Multani
+  notes: [0, 1, 3, 6, 7, 8, 11]
+  origin: India
+- intervals: [3, 3, 1, 4, 1]
+  name: Raga Multani 2
+  notes: [0, 3, 6, 7, 11]
+  origin: India
+- intervals: [1, 1, 4, 1, 5]
+  name: Raga Nabhomani
+  notes: [0, 1, 2, 6, 7]
+  origin: India
+- intervals: [2, 2, 1, 2, 3, 1, 1]
+  name: Raga Nagabharanam
+  notes: [0, 2, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [2, 3, 2, 2, 2, 1]
+  name: Raga Nagagandhari
+  notes: [0, 2, 5, 7, 9, 11]
+  origin: India
+- intervals: [4, 1, 2, 2, 3]
+  name: Raga Nagaswaravali
+  notes: [0, 4, 5, 7, 9]
+  origin: India
+- intervals: [4, 1, 2, 4, 1]
+  name: Raga Nalinakanti
+  notes: [0, 4, 5, 7, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 2, 1, 2]
+  name: Raga Nandkauns
+  notes: [0, 3, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 2, 2]
+  name: Raga Narmada
+  notes: [0, 1, 4, 6, 7, 8, 10]
+  origin: India
+- intervals: [3, 1, 2, 1, 2, 1, 2]
+  name: Raga Nasamani
+  notes: [0, 3, 4, 6, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 1, 2]
+  name: Raga Nasikabhusani
+  notes: [0, 1, 4, 6, 7, 9, 10]
+  origin: India
+- intervals: [3, 1, 1, 2, 3, 1, 1]
+  name: Raga Nata
+  notes: [0, 3, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [1, 2, 2, 2, 2, 1, 2]
+  name: Raga Natabharanam
+  notes: [0, 1, 3, 5, 7, 9, 10]
+  origin: India
+- intervals_ascending: [3, 1, 1, 2, 3, 1, 1]
+  intervals_descending: [3, 2, 2, 4, 1]
+  name: Raga Nattai
+  notes_ascending: [0, 3, 4, 5, 7, 10, 11]
+  notes_descending: [0, 3, 5, 7, 11]
+  origin: India
+- intervals: [2, 2, 1, 4, 1, 2]
+  name: Raga Nattaikurinji
+  notes: [0, 2, 4, 5, 9, 10]
+  origin: India
+- intervals: [2, 3, 2, 1, 2, 2]
+  name: Raga Navamanohari
+  notes: [0, 2, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 3, 2]
+  name: Raga Nayaki
+  notes: [0, 2, 3, 5, 7, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Nayaki Kanada
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 3, 2, 1, 3]
+  name: Raga Neelangi
+  notes: [0, 2, 3, 6, 8, 9]
+  origin: India
+- intervals: [3, 3, 5, 2, 1]
+  name: Raga Neroshta
+  notes: [0, 3, 6, 11, 13]
+  origin: India
+- intervals: [3, 2, 1, 1, 3, 2]
+  name: Raga Nileshwari
+  notes: [0, 3, 5, 6, 7, 10]
+  origin: India
+- intervals: [2, 1, 3, 1, 3, 1, 1]
+  name: Raga Nisada
+  notes: [0, 2, 3, 6, 7, 10, 11]
+  origin: India
+- intervals: [2, 4, 1, 2, 2, 1]
+  name: Raga Nishadi
+  notes: [0, 2, 6, 7, 9, 11]
+  origin: India
+- intervals: [3, 1, 1, 2, 3, 1, 1]
+  name: Raga None
+  notes: [0, 3, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [1, 4, 2, 1, 3, 1]
+  name: Raga Padi
+  notes: [0, 1, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 1, 1, 1, 1, 1]
+  name: Raga Pahadi
+  notes: [0, 2, 4, 5, 7, 8, 9, 10, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 3, 2]
+  name: Raga Palasi
+  notes: [0, 2, 3, 5, 7, 10]
+  origin: India
+- intervals: [1, 3, 2, 3, 2, 1]
+  name: Raga Pancama
+  notes: [0, 1, 4, 6, 9, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Raga Pantuvarali
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Raga Paraj
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: India
+- intervals_ascending: [4, 1, 2, 1, 3, 1]
+  intervals_descending: [1, 3, 1, 2, 1, 3, 1]
+  name: Raga Paras (or Pharas or Paraju)
+  notes_ascending: [0, 4, 5, 7, 8, 11]
+  notes_descending: [0, 1, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 2, 1]
+  name: Raga Partivaran
+  notes: [0, 1, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 2, 1]
+  name: Raga Patdip
+  notes: [0, 2, 3, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 1, 2, 2]
+  name: Raga Phenadyuti
+  notes: [0, 1, 2, 5, 7, 8, 10]
+  origin: India
+- intervals: [1, 4, 2, 1, 2, 2]
+  name: Raga Phenadyuti 2
+  notes: [0, 1, 5, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 1, 1, 1, 1]
+  name: Raga Pilu
+  notes: [0, 2, 3, 5, 7, 8, 9, 10, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Raga Pilu That
+  notes: [0, 2, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 2, 3, 2, 2, 1]
+  name: Raga Prabhati
+  notes: [0, 2, 4, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 2, 2]
+  name: Raga Pratapa
+  notes: [0, 1, 4, 6, 7, 8, 10]
+  origin: India
+- intervals: [2, 3, 3, 3, 1]
+  name: Raga Priyadharshini
+  notes: [0, 2, 5, 8, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 2, 1]
+  name: Raga Puriya (or Puriya Kalyan)
+  notes: [0, 1, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 2, 3, 2, 1]
+  name: Raga Puriya 2
+  notes: [0, 1, 4, 6, 9, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Raga Puriya Dhanashri
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 4]
+  name: Raga Purna Pancama
+  notes: [0, 1, 4, 5, 7, 8]
+  origin: India
+- intervals: [2, 1, 2, 2, 5]
+  name: Raga Purnanalita
+  notes: [0, 2, 3, 5, 7]
+  origin: India
+- intervals: [5, 2, 2, 2, 1]
+  name: Raga Puruhutika
+  notes: [0, 5, 7, 9, 11]
+  origin: India
+- intervals: [5, 2, 2, 2, 1]
+  name: Raga Purvaholica
+  notes: [0, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Raga Purvi
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 2, 2]
+  name: Raga Purvi Thaat
+  notes: [0, 1, 4, 6, 7, 8, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 2, 1]
+  name: Raga Purvikalyani
+  notes: [0, 1, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [1, 1, 6, 1, 3]
+  name: Raga Putrika
+  notes: [0, 1, 2, 8, 9]
+  origin: India
+- intervals: [2, 1, 2, 2, 3, 2]
+  name: Raga Raga Pushpalithika
+  notes: [0, 2, 3, 5, 7, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 3]
+  name: Raga Ragamalini
+  notes: [0, 1, 4, 5, 7, 9]
+  origin: India
+- intervals: [2, 2, 1, 4, 1, 1, 1]
+  name: Raga Rageshri
+  notes: [0, 2, 4, 5, 9, 10, 11]
+  origin: India
+- intervals: [1, 3, 1, 1, 1, 1, 3, 1]
+  name: Raga Ramakri
+  notes: [0, 1, 4, 5, 6, 7, 8, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 1, 2]
+  name: Raga Ramamahohari
+  notes: [0, 1, 4, 6, 7, 9, 10]
+  origin: India
+- intervals: [4, 1, 2, 1, 3, 1]
+  name: Raga Ramamanohari 2
+  notes: [0, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 1, 1, 1, 2, 2, 1, 1, 1]
+  name: Raga Ramdasi Malharq
+  notes: [0, 2, 3, 4, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [1, 2, 4, 1, 4]
+  name: Raga Ramkali 2
+  notes: [0, 1, 3, 7, 8]
+  origin: India
+- intervals: [2, 1, 3, 3, 2, 1]
+  name: Raga Rangini
+  notes: [0, 2, 3, 6, 9, 11]
+  origin: India
+- intervals: [2, 1, 3, 3, 2, 1]
+  name: Raga Ranjiani
+  notes: [0, 2, 3, 6, 9, 11]
+  origin: India
+- intervals: [3, 1, 2, 1, 3, 1, 1]
+  name: Raga Rasamanjari
+  notes: [0, 3, 4, 6, 7, 10, 11]
+  origin: India
+- intervals: [3, 1, 2, 1, 4, 1]
+  name: Raga Rasamanjari 2
+  notes: [0, 3, 4, 6, 7, 11]
+  origin: India
+- intervals: [1, 4, 2, 2, 1, 2]
+  name: Raga Rasavali
+  notes: [0, 1, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 3, 2, 3]
+  name: Raga Rasika Ranjani
+  notes: [0, 1, 4, 7, 9]
+  origin: India
+- intervals: [2, 3, 4, 2, 1]
+  name: Raga Rasranjani
+  notes: [0, 2, 5, 9, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 1, 2, 2]
+  name: Raga Ratipriya
+  notes: [0, 2, 4, 6, 7, 8, 10]
+  origin: India
+- intervals: [2, 2, 2, 1, 4, 1]
+  name: Raga Ratnakanthi
+  notes: [0, 2, 4, 6, 7, 11]
+  origin: India
+- intervals: [1, 1, 4, 1, 3, 1, 1]
+  name: Raga Ravikriya
+  notes: [0, 1, 2, 6, 7, 10, 11]
+  origin: India
+- intervals: [3, 2, 4, 2, 1]
+  name: Raga Reejeshwari
+  notes: [0, 3, 5, 9, 11]
+  origin: India
+- intervals: [2, 2, 1, 4, 1, 2]
+  name: Raga Regeshri (or Rageshwari)
+  notes: [0, 2, 4, 5, 9, 10]
+  origin: India
+- intervals: [1, 3, 3, 1, 5]
+  name: Raga Reva (or Revagupti)
+  notes: [0, 1, 4, 7, 8]
+  origin: India
+- intervals: [1, 4, 2, 3, 2]
+  name: Raga Ribhavari (or Revati)
+  notes: [0, 1, 5, 7, 10]
+  origin: India
+- intervals: [2, 2, 2, 1, 1, 2, 2]
+  name: Raga Rishabapriya
+  notes: [0, 2, 4, 6, 7, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Ritigaula
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 4, 1, 2]
+  name: Raga Rudra Pancama
+  notes: [0, 1, 4, 5, 9, 10]
+  origin: India
+- intervals: [1, 2, 4, 3, 2]
+  name: Raga Rukmangi
+  notes: [0, 1, 3, 7, 10]
+  origin: India
+- intervals: [2, 2, 2, 2, 2, 2]
+  name: Raga Sahera
+  notes: [0, 2, 4, 6, 8, 10]
+  origin: India
+- intervals: [3, 1, 1, 2, 2, 2, 1]
+  name: Raga Sailadesakshi
+  notes: [0, 3, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 2, 4, 2, 1, 2]
+  name: Raga Salagavarali
+  notes: [0, 1, 3, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 4]
+  name: Raga Salanganata
+  notes: [0, 1, 4, 6, 7]
+  origin: India
+- intervals: [2, 2, 1, 2, 3, 1, 1]
+  name: Raga Samanta
+  notes: [0, 2, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [3, 3, 1, 3, 2]
+  name: Raga Samudhra Priya
+  notes: [0, 3, 6, 7, 10]
+  origin: India
+- intervals: [4, 2, 3, 2, 1]
+  name: Raga Sanjk Ka Hindol
+  notes: [0, 4, 6, 9, 11]
+  origin: India
+- intervals: [2, 2, 3, 2, 2, 1]
+  name: Raga Sankara (or Shankara)
+  notes: [0, 2, 4, 7, 9, 11]
+  origin: India
+- intervals: [3, 1, 2, 1, 1, 1, 3]
+  name: Raga Santanamanjari
+  notes: [0, 3, 4, 6, 7, 8, 9]
+  origin: India
+- intervals: [2, 2, 1, 3, 3, 1]
+  name: Raga Sarasanana
+  notes: [0, 2, 4, 5, 8, 11]
+  origin: India
+- intervals: [2, 4, 1, 2, 1, 2]
+  name: Raga Sarasvati
+  notes: [0, 2, 6, 7, 9, 10]
+  origin: India
+- intervals: [4, 1, 2, 1, 1, 3]
+  name: Raga Saravati
+  notes: [0, 4, 5, 7, 8, 9]
+  origin: India
+- intervals: [1, 5, 1, 1, 4]
+  name: Raga Saugandhini
+  notes: [0, 1, 6, 7, 8]
+  origin: India
+- intervals: [1, 5, 1, 1, 4]
+  name: Raga Saugandhunu
+  notes: [0, 1, 6, 7, 8]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 1, 2, 1]
+  name: Raga Saurashtra
+  notes: [0, 1, 4, 5, 7, 8, 9, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 2, 2, 1]
+  name: Raga Sauviram
+  notes: [0, 1, 3, 6, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 4]
+  name: Raga Saveri ascending
+  notes: [0, 1, 4, 6, 7]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 3, 1]
+  name: Raga Saveri descending
+  notes: [0, 1, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [4, 1, 2, 3, 2]
+  name: Raga Savethri
+  notes: [0, 4, 5, 7, 10]
+  origin: India
+- intervals: [4, 1, 2, 3, 1, 1]
+  name: Raga Savitri
+  notes: [0, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 1, 3]
+  name: Raga Senagrani
+  notes: [0, 1, 3, 5, 7, 8, 9]
+  origin: India
+- intervals: [3, 4, 1, 2, 2]
+  name: Raga Shailaja
+  notes: [0, 3, 7, 8, 10]
+  origin: India
+- intervals: [4, 2, 1, 4, 1]
+  name: Raga Shilangi
+  notes: [0, 4, 6, 7, 11]
+  origin: India
+- intervals: [2, 3, 2, 1, 4]
+  name: Raga Shobhavari
+  notes: [0, 2, 5, 7, 8]
+  origin: India
+- intervals: [2, 3, 2, 2, 3]
+  name: Raga Shree ascending
+  notes: [0, 2, 5, 7, 9]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Shree descending
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 4, 1, 2]
+  name: 'Raga Shreeranjani
+
+    (or Shee Ranjani or Sriranjani)'
+  notes: [0, 2, 3, 5, 9, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Raga Shri
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [2, 4, 1, 2, 3]
+  name: Raga Shri Kalyan
+  notes: [0, 2, 6, 7, 9]
+  origin: India
+- intervals: [2, 4, 3, 1, 2]
+  name: Raga Shubravarni
+  notes: [0, 2, 6, 9, 10]
+  origin: India
+- intervals: [2, 2, 2, 1, 2, 2, 1]
+  name: Raga Shuddh Kalyan
+  notes: [0, 2, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 1, 1, 3]
+  name: Raga Shyamalam
+  notes: [0, 2, 3, 6, 7, 8, 9]
+  origin: India
+- intervals: [2, 1, 3, 1, 3, 2]
+  name: Raga Simharava
+  notes: [0, 2, 3, 6, 7, 10]
+  origin: India
+- intervals: [4, 1, 2, 1, 3, 1]
+  name: Raga Simhavahini
+  notes: [0, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 1, 3, 1, 1, 2, 2]
+  name: Raga Simmendramadhyamam
+  notes: [0, 2, 3, 6, 7, 8, 10]
+  origin: India
+- intervals: [1, 1, 1, 1, 1, 2, 1, 2, 1, 1]
+  name: Raga Sindhi-Bhairavi
+  notes: [0, 1, 2, 3, 4, 5, 7, 8, 10, 11]
+  origin: India
+- intervals: [4, 1, 2, 1, 3, 1]
+  name: Raga Sindhu Ramakriya
+  notes: [0, 4, 5, 7, 8, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 1, 1]
+  name: Raga Sindhura
+  notes: [0, 2, 3, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 4, 1]
+  name: Raga Sindhura Kafi
+  notes: [0, 2, 3, 5, 7, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 3, 2]
+  name: Raga Siva Kambhoji
+  notes: [0, 2, 4, 5, 7, 10]
+  origin: India
+- intervals: [1, 3, 2, 1, 2, 2, 1]
+  name: Raga Sohani
+  notes: [0, 1, 4, 6, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 1, 3, 3, 1]
+  name: Raga Sohini
+  notes: [0, 1, 4, 5, 8, 11]
+  origin: India
+- intervals: [2, 2, 1, 4, 2, 1]
+  name: Raga Sohni
+  notes: [0, 2, 4, 5, 9, 11]
+  origin: India
+- intervals: [2, 3, 2, 2, 1, 1, 1]
+  name: Raga Sorati
+  notes: [0, 2, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 2, 1]
+  name: Raga Sowrashtram
+  notes: [0, 1, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Sri
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 2, 2, 1, 1, 1, 3]
+  name: Raga Srutiranjani
+  notes: [0, 2, 4, 6, 7, 8, 9]
+  origin: India
+- intervals: [1, 2, 3, 1, 2, 1, 2]
+  name: Raga Sthavarajam
+  notes: [0, 1, 3, 6, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 3]
+  name: Raga Suddha Bangala
+  notes: [0, 2, 3, 5, 7, 9]
+  origin: India
+- intervals: [1, 1, 3, 3, 1, 3]
+  name: Raga Suddha Mukhari
+  notes: [0, 1, 2, 5, 8, 9]
+  origin: India
+- intervals: [1, 3, 1, 1, 2, 3, 1]
+  name: Raga Suddha Pancama
+  notes: [0, 1, 4, 5, 6, 8, 11]
+  origin: India
+- intervals: [1, 3, 2, 1, 1, 3, 1]
+  name: Raga Suddha Ramakriya
+  notes: [0, 1, 4, 6, 7, 8, 11]
+  origin: India
+- intervals: [2, 3, 2, 2, 3]
+  name: Raga Suddha Saveri
+  notes: [0, 2, 5, 7, 9]
+  origin: India
+- intervals: [1, 2, 2, 2, 1, 4]
+  name: Raga Suddha Simantini
+  notes: [0, 1, 3, 5, 7, 8]
+  origin: India
+- intervals: [1, 2, 2, 3, 2, 2]
+  name: Raga Suddha Todi
+  notes: [0, 1, 3, 5, 8, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 1, 2, 1, 1]
+  name: Raga Suha Kanada
+  notes: [0, 2, 3, 5, 7, 8, 10, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 3, 2]
+  name: Raga Suha Sughrai
+  notes: [0, 2, 3, 5, 7, 10]
+  origin: India
+- intervals: [4, 2, 3, 2, 1]
+  name: Raga Sunada Vinodini
+  notes: [0, 4, 6, 9, 11]
+  origin: India
+- intervals: [2, 3, 2, 2, 1, 2]
+  name: Raga Suposhini
+  notes: [0, 2, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 2, 1]
+  name: Raga Supradhipam
+  notes: [0, 1, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [2, 3, 2, 2, 1, 1, 1]
+  name: Raga Sur Malhar
+  notes: [0, 2, 5, 7, 9, 10, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Raga Surati
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: India
+- intervals: [3, 2, 4, 1, 2]
+  name: Raga Surya
+  notes: [0, 3, 5, 9, 10]
+  origin: India
+- intervals: [2, 3, 2, 1, 4]
+  name: Raga Sutradhari
+  notes: [0, 2, 5, 7, 8]
+  origin: India
+- intervals: [2, 1, 3, 1, 1, 4]
+  name: Raga Syamalam
+  notes: [0, 2, 3, 6, 7, 8]
+  origin: India
+- intervals: [3, 2, 2, 1, 3, 1]
+  name: Raga Takka
+  notes: [0, 3, 5, 7, 8, 11]
+  origin: India
+- intervals: [1, 1, 3, 2, 3, 1, 1]
+  name: Raga Tanukirti
+  notes: [0, 1, 2, 5, 7, 10, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 1, 2, 2]
+  name: Raga Tarangini
+  notes: [0, 2, 4, 5, 7, 8, 10]
+  origin: India
+- intervals: [4, 1, 2, 3, 1, 1]
+  name: Raga Tilang
+  notes: [0, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [4, 1, 2, 3, 1, 1]
+  name: Raga Tilang (or Bridabani Tilang)
+  notes: [0, 4, 5, 7, 10, 11]
+  origin: India
+- intervals: [1, 2, 3, 1, 2, 1, 2]
+  name: Raga Tivravahini
+  notes: [0, 1, 3, 6, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 4, 1, 2, 2]
+  name: Raga Trimurti
+  notes: [0, 2, 3, 7, 8, 10]
+  origin: India
+- intervals: [3, 1, 1, 2, 2, 2, 1]
+  name: Raga Trishuli
+  notes: [0, 3, 4, 5, 7, 9, 11]
+  origin: India
+- intervals: [3, 2, 2, 4, 1]
+  name: Raga Udayaravicandrika
+  notes: [0, 3, 5, 7, 11]
+  origin: India
+- intervals: [3, 2, 2, 3, 2]
+  name: Raga Udhayaravi
+  notes: [0, 3, 5, 7, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Raga Vagedeeshwari
+  notes: [0, 1, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 4, 1, 4, 1]
+  name: Raga Vaijayanti
+  notes: [0, 2, 6, 7, 11]
+  origin: India
+- intervals: [4, 3, 2, 1, 2]
+  name: Raga Valaji
+  notes: [0, 4, 7, 9, 10]
+  origin: India
+- intervals: [1, 2, 3, 1, 3, 1, 1]
+  name: Raga Vamsavathi
+  notes: [0, 1, 3, 6, 7, 10, 11]
+  origin: India
+- intervals: [1, 1, 3, 1, 1, 3, 1]
+  name: Raga Varali
+  notes: [0, 1, 2, 5, 6, 7, 10]
+  origin: India
+- intervals: [3, 2, 4, 1, 2]
+  name: Raga Varamu
+  notes: [0, 3, 5, 9, 10]
+  origin: India
+- intervals: [3, 4, 1, 2, 2]
+  name: Raga Varini
+  notes: [0, 3, 7, 8, 10]
+  origin: India
+- intervals_ascending: [4, 1, 4, 2, 1]
+  intervals_descending: [1, 3, 1, 4, 2, 1]
+  name: Raga Vasanta
+  notes_ascending: [0, 4, 5, 9, 11]
+  notes_descending: [0, 1, 4, 5, 9, 11]
+  origin: India
+- intervals: [1, 3, 1, 3, 2, 2]
+  name: Raga Vasantha
+  notes: [0, 1, 4, 5, 8, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Raga Vativasanta
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: India
+- intervals_ascending: [4, 1, 2, 2, 1, 2]
+  intervals_descending: [1, 3, 1, 2, 2, 1, 2]
+  name: Raga Vegavahini
+  notes_ascending: [0, 4, 5, 7, 9, 10]
+  notes_descending: [0, 1, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 2, 2, 1, 2]
+  name: Raga Vegavahini descending
+  notes: [0, 1, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 2, 2, 2, 2, 1]
+  name: Raga Velavali
+  notes: [0, 2, 3, 5, 7, 9, 11]
+  origin: India
+- intervals: [1, 3, 3, 1, 5]
+  name: Raga Vibhas
+  notes: [0, 1, 4, 7, 8]
+  origin: India
+- intervals: [2, 1, 3, 1, 2, 3]
+  name: Raga Vijayanagari
+  notes: [0, 2, 3, 6, 7, 9]
+  origin: India
+- intervals: [1, 1, 4, 1, 4, 1]
+  name: Raga Vijayasri
+  notes: [0, 1, 2, 6, 7, 11]
+  origin: India
+- intervals: [4, 2, 1, 3, 1, 1]
+  name: Raga Vijayavasanta
+  notes: [0, 4, 6, 7, 10, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 4, 1]
+  name: Raga Vilasini
+  notes: [0, 2, 4, 5, 7, 11]
+  origin: India
+- intervals: [2, 1, 2, 2, 3, 1, 1]
+  name: Raga Viravasantham
+  notes: [0, 2, 3, 5, 7, 10, 11]
+  origin: India
+- intervals: [2, 2, 1, 2, 3, 2]
+  name: Raga Vivardhini
+  notes: [0, 2, 4, 5, 7, 10]
+  origin: India
+- intervals: [1, 2, 2, 3, 3, 1]
+  name: Raga Viyogavarali
+  notes: [0, 1, 3, 5, 8, 11]
+  origin: India
+- intervals: [4, 2, 1, 2, 1, 2]
+  name: Raga Vutari
+  notes: [0, 4, 6, 7, 9, 10]
+  origin: India
+- intervals: [2, 2, 1, 2, 2, 3]
+  name: Raga Yaduka Kambodi descending
+  notes: [0, 2, 4, 5, 7, 9]
+  origin: India
+- intervals: [2, 3, 2, 2, 3]
+  name: Raga Yadukua Kambodhi ascending
+  notes: [0, 2, 5, 7, 9]
+  origin: India
+- intervals: [2, 2, 1, 1, 1, 2, 2, 1]
+  name: Raga Yaman Kalyan
+  notes: [0, 2, 4, 5, 6, 7, 9, 11]
+  origin: India
+- intervals: [2, 2, 2, 1, 2, 3]
+  name: Raga Yamuna Kalyani
+  notes: [0, 2, 4, 6, 7, 9]
+  origin: India
+- intervals: [4, 2, 1, 2, 1, 2]
+  name: Raga Zilaf
+  notes: [0, 4, 6, 7, 9, 10]
+  origin: India
+- intervals: [2, 1, 1, 1, 2, 2, 1, 2]
+  name: Raga Zilla
+  notes: [0, 2, 3, 4, 5, 7, 9, 10]
+  origin: India
+- intervals: [2, 3, 2, 2, 1, 2]
+  name: Ragta Narayani
+  notes: [0, 2, 5, 7, 9, 10]
+  origin: India
+- intervals: [1, 3, 1, 1, 2, 2, 2]
+  name: Rahawi
+  notes: [0, 1, 4, 5, 6, 8, 10]
+  origin: Iraq
+- intervals: [2, 2, 1, 2, 2, 1, 1, 1]
+  name: Rast
+  notes: [0, 2, 4, 5, 7, 9, 10, 11]
+  origin: Greece
+- intervals: [1, 2, 1, 2, 2, 2, 2]
+  name: Ravel
+  notes: [0, 1, 3, 4, 6, 8, 10]
+- intervals: [2, 1, 1, 3, 1, 1, 3]
+  name: Relative Blues
+  notes: [0, 2, 3, 4, 7, 8, 9]
+- intervals: [2, 3, 2, 2, 3]
+  name: Ritusen
+  notes: [0, 2, 5, 7, 9]
+- intervals: [1, 2, 2, 3, 2, 2]
+  name: Ritzu
+  notes: [0, 1, 3, 5, 8, 10]
+  origin: Japan
+- intervals: [2, 3, 2, 2, 3]
+  name: Ritzu Gagaku
+  notes: [0, 2, 5, 7, 9]
+  origin: Japan
+- intervals: [3, 1, 1, 2, 2, 1, 2]
+  name: Rock ‘n Roll
+  notes: [0, 3, 4, 5, 7, 9, 10]
+- intervals: [4, 1, 3, 3, 1]
+  name: Romanian Bacovia
+  notes: [0, 4, 5, 8, 11]
+  origin: Romania
+- intervals: [1, 3, 2, 1, 2, 1, 2]
+  name: Romanian Major
+  notes: [0, 1, 4, 6, 7, 9, 10]
+  origin: Romania
+- intervals: [2, 3, 2, 3, 2]
+  name: Rui Bin
+  notes: [0, 2, 5, 7, 10]
+  origin: China
+- intervals: [2, 2, 1, 1, 1, 2, 1, 1, 1]
+  name: Ryo
+  notes: [0, 2, 4, 5, 6, 7, 9, 10, 11]
+  origin: Japan
+- intervals: [2, 2, 3, 2, 3]
+  name: Ryosen
+  notes: [0, 2, 4, 7, 9]
+  origin: Japan
+- intervals: [4, 1, 2, 4, 1]
+  name: Ryukyu
+  notes: [0, 4, 5, 7, 11]
+  origin: Japan
+- intervals: [2, 1, 1, 3, 1, 2, 2]
+  name: Sabach
+  notes: [0, 2, 3, 4, 7, 8, 10]
+  origin: Greece
+- intervals: [2, 1, 1, 3, 1, 3, 1]
+  name: Sabach Maj7
+  notes: [0, 2, 3, 4, 7, 8, 11]
+  origin: Greece
+- intervals: [1, 3, 2, 1, 4]
+  name: Sakura
+  notes: [0, 1, 4, 6, 7]
+  origin: Japan
+- intervals: [2, 2, 1, 2, 2, 3]
+  name: Scottish Hexatonic
+  notes: [0, 2, 4, 5, 7, 9]
+  origin: Scotland
+- intervals: [2, 3, 2, 2, 3]
+  name: Scottish Pentatonic
+  notes: [0, 2, 5, 7, 9]
+  origin: Scotland
+- intervals: [1, 3, 3, 2, 3]
+  name: Scriabin
+  notes: [0, 1, 4, 7, 9]
+- intervals: [2, 2, 1, 2, 1, 3, 1]
+  name: Segiah
+  notes: [0, 2, 4, 5, 7, 8, 11]
+- intervals: [2, 1, 2, 2, 1, 2, 2]
+  name: Se
+  notes: [0, 2, 3, 5, 7, 8, 10]
+  origin: Japan
+- intervals: [2, 1, 2, 1, 2, 2, 2]
+  name: Semilocrian
+  notes: [0, 2, 3, 5, 6, 8, 10]
+- intervals: [2, 1, 1, 2, 2, 2, 2]
+  name: Semilocrian b4
+  notes: [0, 2, 3, 4, 6, 8, 10]
+- intervals: [3, 1, 1, 2, 1, 3, 1]
+  name: Sengiach (or Sengah)
+  notes: [0, 3, 4, 5, 7, 8, 11]
+  origin: Greece
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Shang
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: China
+- intervals: [2, 3, 2, 3, 2]
+  name: Shang-Diao
+  notes: [0, 2, 5, 7, 10]
+  origin: China
+- intervals: [2, 1, 2, 2, 2, 3]
+  name: Sho
+  notes: [0, 2, 3, 5, 7, 9]
+  origin: Japan
+- intervals: [1, 2, 1, 2, 4, 2]
+  name: 'Sho #2'
+  notes: [0, 1, 3, 4, 6, 10]
+  origin: Japan
+- intervals: [1, 2, 1, 2, 1, 2, 2, 1]
+  name: Shostakovich
+  notes: [0, 1, 3, 4, 6, 7, 9, 11]
+  origin: Russia
+- intervals: [1, 4, 2, 3, 2]
+  name: Soft Ascend
+  notes: [0, 1, 5, 7, 10]
+  origin: Japan
+- intervals: [1, 3, 2, 1, 4]
+  name: Soft Descend
+  notes: [0, 1, 4, 6, 7]
+  origin: Japan
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Souzinak
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Greece
+- intervals: [3, 1, 1, 1, 2, 2, 2]
+  name: Spanish Heptatonic
+  notes: [0, 3, 4, 5, 6, 8, 10]
+  origin: Spain
+- intervals: [1, 2, 1, 1, 1, 2, 2, 2]
+  name: Spanish Octatonic
+  notes: [0, 1, 3, 4, 5, 6, 8, 10]
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Spanish (or Spanish Gypsy)
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Spain
+- intervals: [1, 2, 1, 1, 2, 1, 2, 2]
+  name: Spanish Phrygian
+  notes: [0, 1, 3, 4, 5, 7, 8, 10]
+  origin: Spain
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Sultani Yakah
+  notes: [0, 2, 3, 5, 7, 8, 11]
+- intervals: [1, 2, 1, 2, 2, 2, 2]
+  name: Superlocrian
+  notes: [0, 1, 3, 4, 6, 8, 10]
+- intervals: [1, 2, 1, 2, 3, 1, 2]
+  name: 'Superlocrian #6'
+  notes: [0, 1, 3, 4, 6, 9, 10]
+- intervals: [1, 1, 2, 2, 2, 2, 2]
+  name: Superlocrian bb3
+  notes: [0, 1, 2, 4, 6, 8, 10]
+- intervals: [1, 2, 1, 2, 1, 2, 3]
+  name: Superlocrian bb6 bb7
+  notes: [0, 1, 3, 4, 6, 7, 9]
+- intervals: [1, 2, 1, 2, 2, 3, 1]
+  name: Superlocrian Maj7
+  notes: [0, 1, 3, 4, 6, 8, 11]
+- intervals: [2, 3, 2, 3, 2]
+  name: Suspended Pentatonic
+  notes: [0, 2, 5, 7, 10]
+- intervals: [1, 1, 2, 1, 1, 1, 1, 2, 1, 1]
+  name: Symmetrical Decatonic
+  notes: [0, 1, 2, 4, 5, 6, 7, 8, 10, 11]
+- intervals: [1, 1, 2, 2, 1, 1, 2, 1, 1]
+  name: Symmetrical Nonatonic
+  notes: [0, 1, 2, 4, 6, 7, 8, 10, 11]
+- intervals: [2, 2, 2, 2, 1, 1, 2]
+  name: 'Synthetic Mixture #5'
+  notes: [0, 2, 4, 6, 8, 9, 10]
+- intervals: [1, 3, 1, 3, 4]
+  name: Syrian Pentatonic
+  notes: [0, 1, 4, 5, 8]
+  origin: Syria
+- intervals: [2, 2, 1, 2, 1, 3, 1]
+  name: Tabahaniotiko
+  notes: [0, 2, 4, 5, 7, 8, 11]
+  origin: Greece
+- intervals: [2, 2, 1, 1, 1, 2, 1, 1, 1]
+  name: Taishikicho
+  notes: [0, 2, 4, 5, 6, 7, 9, 10, 11]
+  origin: Japan
+- intervals: [2, 1, 3, 2, 3, 1]
+  name: Takemitzu Tree 1
+  notes: [0, 2, 3, 6, 8, 11]
+  origin: Japan
+- intervals: [2, 1, 3, 2, 2, 2]
+  name: Takemitzu Tree 2
+  notes: [0, 2, 3, 6, 8, 10]
+  origin: Japan
+- intervals: [1, 2, 1, 1, 2, 1, 1, 2, 1]
+  name: Tcherepnin
+  notes: [0, 1, 3, 4, 5, 7, 8, 9, 11]
+  origin: Russia
+- intervals: [2, 3, 2, 4, 1]
+  name: Tcherepnin Major Pentatonic
+  notes: [0, 2, 5, 7, 11]
+  origin: Russia
+- intervals: [2, 2, 3, 2, 3]
+  name: Tezeta Major
+  notes: [0, 2, 4, 7, 9]
+  origin: Ethiopia
+- intervals: [1, 2, 4, 1, 4]
+  name: Tezeta Minor
+  notes: [0, 1, 3, 7, 8]
+  origin: Ethiopia
+- intervals: [1, 2, 3, 1, 2, 1, 2]
+  name: Todi b7
+  notes: [0, 1, 3, 6, 7, 9, 10]
+- intervals: [1, 3, 2, 1, 3, 2]
+  name: Tritone
+  notes: [0, 1, 4, 6, 7, 10]
+- intervals: [1, 3, 1, 1, 3, 1, 2]
+  name: Tsinganikos
+  notes: [0, 1, 4, 5, 6, 9, 10]
+  origin: Greece
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Tunisian
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Tunisia
+- intervals: [1, 1, 4, 1, 1, 4]
+  name: Two-semitone Tritone
+  notes: [0, 1, 2, 6, 7, 8]
+- intervals: [2, 3, 2, 2, 3]
+  name: Ujo
+  notes: [0, 2, 5, 7, 9]
+  origin: Korea
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Ukrainian Minor
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Ukraina
+- intervals: [2, 1, 3, 1, 2, 1, 2]
+  name: Ukranian Dorian
+  notes: [0, 2, 3, 6, 7, 9, 10]
+  origin: Ukraina
+- intervals: [1, 2, 1, 2, 2, 1, 3]
+  name: Ultralocrian
+  notes: [0, 1, 3, 4, 6, 8, 9]
+- intervals: [1, 1, 2, 2, 2, 1, 3]
+  name: Ultralocrian bb3
+  notes: [0, 1, 2, 4, 6, 8, 9]
+- intervals: [1, 2, 1, 3, 1, 1, 3]
+  name: Ultraphrygian
+  notes: [0, 1, 3, 4, 7, 8, 9]
+- intervals: [2, 1, 2, 2, 1, 2, 1, 1]
+  name: Utility Minor
+  notes: [0, 2, 3, 5, 7, 8, 10, 11]
+- intervals: [1, 2, 2, 1, 1, 2, 2, 1]
+  name: Van Der Host
+  notes: [0, 1, 3, 5, 6, 7, 9, 11]
+- intervals: [2, 2, 2, 2, 2, 2]
+  name: Whole-Tone
+  notes: [0, 2, 4, 6, 8, 10]
+- intervals: [2, 1, 2, 1, 2, 1, 2, 1]
+  name: Whole-Tone Diminished
+  notes: [0, 2, 3, 5, 6, 8, 9, 11]
+- intervals: [2, 2, 1, 2, 2, 2, 1]
+  name: Xin
+  notes: [0, 2, 4, 5, 7, 9, 11]
+  origin: China
+- intervals: [3, 2, 3, 2, 2]
+  name: Yi Ze
+  notes: [0, 3, 5, 8, 10]
+  origin: China
+- intervals: [1, 2, 2, 1, 2, 2, 2]
+  name: Yishtabach
+  notes: [0, 1, 3, 5, 6, 8, 10]
+  origin: Jewish
+- intervals: [2, 3, 2, 2, 3]
+  name: Yo
+  notes: [0, 2, 5, 7, 9]
+  origin: Japan
+- intervals: [2, 2, 3, 2, 3]
+  name: Yona Nuki Major
+  notes: [0, 2, 4, 7, 9]
+  origin: Japan
+- intervals: [2, 1, 4, 1, 4]
+  name: Yona Nuki Minor
+  notes: [0, 2, 3, 7, 8]
+  origin: Japan
+- intervals: [2, 3, 2, 2, 1, 2]
+  name: Yosen
+  notes: [0, 2, 5, 7, 9, 10]
+  origin: Japan
+- intervals: [2, 1, 2, 2, 2, 1, 2]
+  name: Yu
+  notes: [0, 2, 3, 5, 7, 9, 10]
+  origin: China
+- intervals: [3, 2, 2, 3, 2]
+  name: Yu 2
+  notes: [0, 3, 5, 7, 10]
+  origin: China
+- intervals: [2, 1, 2, 1, 3, 2, 1]
+  name: Zangula
+  notes: [0, 2, 3, 5, 6, 9, 11]
+  origin: Nigeria
+- intervals: [2, 1, 2, 2, 1, 3, 1]
+  name: Zhalibny Minor
+  notes: [0, 2, 3, 5, 7, 8, 11]
+- intervals: [2, 3, 2, 2, 3]
+  name: Zheng
+  notes: [0, 2, 5, 7, 9]
+  origin: China
+- intervals: [2, 3, 2, 2, 3]
+  name: Zhi
+  notes: [0, 2, 5, 7, 9]
+  origin: China
+- intervals: [1, 3, 1, 2, 1, 2, 2]
+  name: Zilof
+  notes: [0, 1, 4, 5, 7, 8, 10]
+  origin: Spain
+- intervals: [2, 1, 2, 2, 1, 1, 2, 1]
+  name: Zirafkend
+  notes: [0, 2, 3, 5, 7, 8, 9, 11]
+  origin: Arabia
+- intervals: [1, 2, 2, 2, 1, 2, 2]
+  name: Zokuso
+  notes: [0, 1, 3, 5, 7, 8, 10]
+  origin: Japan
