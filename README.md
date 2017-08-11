@@ -1,4 +1,4 @@
-# Scale Omnibus
+# Scale Omnibus Dataset
 
 ## YAML and JSON representations of musical scales
 
