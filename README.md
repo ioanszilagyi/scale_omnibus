@@ -31,4 +31,4 @@ All data in this repository was compiled by Francesco Balena in *The Scale Omnib
 
 Converted from version 1.02 of *The Scale Omnibus* to YAML and JSON by Corey Hoard.
 
-The Scale Omnibus PDF is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). Please respect this license and attribute Francesco Balena wherever this repository is used.
+The Scale Omnibus PDF is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). Please respect this license and attribute Francesco Balena wherever this repository is used. If you find this converted dataset useful, attribution to Corey Hoard is appreciated but not required.
