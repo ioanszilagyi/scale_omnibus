@@ -29,6 +29,6 @@ Scales can be extended to multiple octaves by adding or subtracting multiples of
 
 All data in this repository was compiled by Francesco Balena in *The Scale Omnibus*, who was gracious enough to release their work for free to the public. Please visit their website at http://www.saxopedia.com/the-scale-omnibus to access the most up-to-date version and support Balena's work.
 
-Converted from *The Scale Omnibus* version 1.02 to YAML and JSON by Corey Hoard.
+Converted from version 1.02 of *The Scale Omnibus* to YAML and JSON by Corey Hoard.
 
 The Scale Omnibus PDF is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). Please respect this license and attribute Francesco Balena wherever this repository is used.
